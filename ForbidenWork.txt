@@ -165,7 +165,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn có thể tập bài này bất cứ khi nào cần . \n Nó sẽ giúp đôi tay bạn khỏe mạnh dẻo dai tràn đầy sức mạnh như một võ sĩ .\n Bài tập rất đơn giản nhưng hiệu quả cực cao , bạn có thể cảm nhận ngay sau khi tập lần đầu . \n Bước 1 đưa 2 tay ra trước , lòng bàn tay hướng về phía trước . \n Bước 2 dùng lực nắm bàn tay lại rồi mở lại tay ra . \n Lặp lại ít nhất 100 lần , rồi tăng dần . \n Bạn càng luyện nhiều thì càng có đôi tay mạnh mẽ . \n Rất đơn giản bạn hãy làm ngay và cảm nhận ."
+"linkdes":"Bạn có thể tập bài này bất cứ khi nào cần . \n Nó sẽ giúp đôi tay bạn khỏe mạnh dẻo dai tràn đầy sức mạnh như một võ sĩ .\n Bài tập rất đơn giản nhưng hiệu quả cực cao , bạn có thể cảm nhận ngay sau khi tập lần đầu . \n Bước 1 đưa 2 tay ra trước , lòng bàn tay hướng về phía trước . \n Bước 2 dùng lực nắm bàn tay lại rồi mở lại tay ra . \n Lặp lại ít nhất 100 lần , rồi tăng dần . \n Luyện liên tục hàng ngày như vậy, bạn càng luyện nhiều thì càng có đôi tay mạnh mẽ . \n Rất đơn giản bạn hãy làm ngay và cảm nhận ."
 },
 {
 "type":"1",
