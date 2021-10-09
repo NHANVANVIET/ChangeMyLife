@@ -142,5 +142,21 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
 "linkdes":"Tắm không chỉ là gội sạch bụi bẩn trên cơ thể bạn . \n Mà còn có một sự thanh lọc ở cấp độ tế bào trong cơ thể chiếm hơn 70% là nước của bạn .\n Cách tắm tốt nhất là ngụp lặn trong bể hoặc dưới sông .\n Cơ thể nên được nhúng chìm trong nước . \n Đó là cách giúp cơ thể bạn khỏe mạnh . \n Nếu không có điều kiện, hãy tắm nước mát hơn từ 5-8 độ so với nhiệt độ phòng , để nước chảy từ trên đỉnh đầu xuống .\n Hãy để ý khi bạn có một ngày dài mệt mỏi căng thẳng , bạn tới đứng dưới vòi hoa sen 3 đến 5 phút , khi bước ra , mọi vấn đề biến mất ! \n Bạn như mới vừa được sinh ra vậy ! \n Một khi cấu trúc tế bào của bạn được sạc năng lượng nó sẽ duy trì sự tươi trẻ cho bạn một thời gian dài ."
+},
+{
+"type":"1",
+"name":"TẬP CHỐNG ĐẨY , TẬP KÉO XÀ",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Chống đẩy là một cách dễ dàng mà bạn có thể làm mọi lúc . \n Nó mang lại cho bạn rất nhiều lợi ích : tự tin, tay to, ngực nở bụng săn , cơ bắp , khí huyết lưu thông . \n Kéo xà cũng vậy , nó làm dãn gân cốt, tăng dẻo dai cho cơ thể bạn . \n Hãy tập chống đẩy, và kéo xà đúng cách bất cứ khi nào rảnh , khi bạn giải lao giữa lúc làm .\n Nếu thấy khát, hãy uống nước sau mỗi lần tập . \n Chỉ sau một tháng bạn sẽ thấy khác biệt từ bên trong lẫn bên ngoài cơ thể ."
+},
+{
+"type":"1",
+"name":"TẬP THỂ DỤC TRONG 5 PHÚT GIẢI LAO",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Bạn chỉ cần tập bài này trong nhà 5 phút , bất cứ khi nào cần . \n Nó sẽ giúp cơ thể bạn khỏe mạnh dẻo dai tràn đầy sức mạnh như một võ sĩ người hướng dẫn bài tập này .\n Nếu thấy khát, hãy uống nước sau mỗi lần tập . \n Link : https://www.youtube.com/watch?v=q7n1gmPvkUU"
 }
 ]}
