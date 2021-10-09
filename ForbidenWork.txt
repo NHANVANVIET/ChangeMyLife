@@ -86,5 +86,13 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
 "linkdes":"Bạn đừng bao giờ coi thường việc gấp gọn chăn màn, dọn dẹp chỗ ngủ khi thức dậy . \n Hãy để ý mà xem, những người bê tha, bệ rạc , thiếu sức sống họ đều không làm điều này . \n Bạn không muốn giống họ chứ ? \n Khi bạn để chăn màn chỗ ngủ bừa bộn , theo tâm linh , ma quỷ sẽ nhảy múa trên đó , theo khoa học thì nó phát ra một nguốn năng lượng xấu ảnh hưởng đến bạn . \n Chỉ cần nhìn vào nó thôi bạn cũng sẽ cảm thấy mệt mỏi bức bối . \n Vì thế hãy gấp gọn chăn màn,dọn dẹp chỗ ngủ của bạn khi thức dậy."
+},
+{
+"type":"1",
+"name":"TĨNH TÂM",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Buổi sáng sớm khi bạn thức dậy , dọn dẹp chỗ ngủ xong , hãy ngồi tĩnh tâm  một lúc . \n Điều này giúp cơ thể bạn bắt đầu chuyển đổi trạng thái từ ngủ sang thức . \n Giúp trí não của bạn sáng suốt và bắt đầu hoạt động tốt . \n Hãy ngồi tĩnh tâm thư giãn thoải mái cảm nhận cuộc sống và mỉm cười. \n Thật hạnh phúc khi bạn còn sống !!!"
 }
 ]}
