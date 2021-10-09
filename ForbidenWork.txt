@@ -174,5 +174,21 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
 "linkdes":"Một ngày hãy bỏ ra 30p để học một ngôn ngữ mới . \n Đặc biệt là tiếng Anh . \n Nó sẽ là một công cụ giao tiếp tuyệt vời , giúp khai sáng cuộc đời của bạn . \n Nó sẽ giúp bạn nổi bật hơn tất cả trong đám đông , giúp bạn thành công trong mọi việc . \n Giúp bạn tăng giá trị của bản thân lên một tầm cao mới . \n Hãy nghe tôi, bỏ ra 30p một ngày để học nó và cuộc đời bạn sẽ thay đổi ."
+},
+{
+"type":"1",
+"name":"LÊN KẾ HOẠCH CÔNG VIỆC CẦN LÀM TỪ TỐI HÔM TRƯỚC",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Hãy lên kế hoạch công việc cần làm của bạn ngày hôm sau vào buổi tối hôm trước . \n Để khi bạn ngồi vào bàn làm việc , bạn chỉ có duy nhất một điều đó là hoàn thành nó . \n Không phải lan man suy nghĩ mất thời gian, không phải chịu những tác động khác , chỉ đơn giản là làm việc . \n Bạn sẽ dành toàn bộ năng lượng của mình để làm việc mà không phải tiêu hao nó cho việc không đáng ."
+},
+{
+"type":"1",
+"name":"ĐẶT RA MỤC TIÊU ĐỂ HƯỚNG TỚI",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Khi bạn có một mục tiêu để hoàn thành , nó sẽ khiến bạn có động lực làm việc . \n Nó sẽ khiến bạn làm việc đúng khi bạn mất phương hướng , thậm chí không biết làm gì . \n Hãy đặt ra cho mình một mục tiêu để làm , thay vì phí phạm thời gian vào những việc vô bổ , hãy làm việc để đạt được mục tiêu . \n Hãy đặt mục tiêu trong giờ, mục tiêu trong ngày , mục tiêu trong tuần , mục tiêu trong tháng ... và hành động . \n Bạn sẽ tập trung năng lượng của mình vào đó và không lãng phí vào việc vô bổ ."
 }
 ]}
