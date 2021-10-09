@@ -190,5 +190,13 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
 "linkdes":"Khi bạn có một mục tiêu để hoàn thành , nó sẽ khiến bạn có động lực làm việc . \n Nó sẽ khiến bạn làm việc đúng khi bạn mất phương hướng , thậm chí không biết làm gì . \n Hãy đặt ra cho mình một mục tiêu để làm , thay vì phí phạm thời gian vào những việc vô bổ , hãy làm việc để đạt được mục tiêu . \n Hãy đặt mục tiêu trong giờ, mục tiêu trong ngày , mục tiêu trong tuần , mục tiêu trong tháng ... và hành động . \n Bạn sẽ tập trung năng lượng của mình vào đó và không lãng phí vào việc vô bổ ."
+},
+{
+"type":"1",
+"name":"GIÁM SÁT THỜI GIAN DÙNG ĐIỆN THOẠI , MÁY TÍNH",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Nếu bạn thống kê thời gian bạn cầm chiếc điện thoại trên tay , nó sẽ khiến bạn sốc . \n Vì bạn cầm nó quá nhiều , mà toàn sử dụng nó vào những vệc vô ích, rút cạn năng lượng của cơ thể . \n Hãy dùng chiếc điện thoại một cách có ích nhất . \n Giám sát thời gian bạn sử dụng nó , chỉ dùng cho những việc có ích , đừng cắm đầu vào game , mạng xã hội , tin hot, giật gân ... \n Dùng máy tính cũng vậy , nếu bạn là dân văn phòng , phải làm việc với máy tính cả ngày , cứ 30 phút hãy nhắm mắt lại để thư dãn , ngồi thẳng lưng , hít thở sâu , tĩnh tâm , tập bài tập xoay cổ , 1 tiếng hãy đứng dậy kéo dãn gân cốt , tập bài tập gập người ,vặn người hoặc chống đẩy , hoặc tập bài tập 5 phút . \n Không ngồi lỳ hàng giờ mà không vận động , sẽ khiến cơ thể bạn mệt mỏi , stress , không có sức sống ."
 }
 ]}
