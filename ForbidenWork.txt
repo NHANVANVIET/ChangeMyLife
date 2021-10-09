@@ -93,6 +93,6 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Buổi sáng sớm khi bạn thức dậy , dọn dẹp chỗ ngủ xong , hãy ngồi tĩnh tâm  một lúc . \n Điều này giúp cơ thể bạn bắt đầu chuyển đổi trạng thái từ ngủ sang thức . \n Giúp trí não của bạn sáng suốt và bắt đầu hoạt động tốt . \n Hãy ngồi tĩnh tâm thư giãn thoải mái cảm nhận cuộc sống và mỉm cười. \n Thật hạnh phúc khi bạn còn sống !!!"
+"linkdes":"Buổi sáng sớm khi bạn thức dậy , dọn dẹp chỗ ngủ xong , hãy ngồi tĩnh tâm  một lúc . \n Điều này giúp cơ thể bạn bắt đầu chuyển đổi trạng thái từ ngủ sang thức . \n Giúp trí não của bạn sáng suốt và bắt đầu hoạt động tốt . \n Hãy ngồi tĩnh tâm thư giãn thoải mái cảm nhận cuộc sống và mỉm cười. \n Thật hạnh phúc khi bạn còn sống !"
 }
 ]}
