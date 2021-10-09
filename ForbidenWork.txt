@@ -182,45 +182,5 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
 "linkdes":"Khi bạn có một mục tiêu để hoàn thành , nó sẽ khiến bạn có động lực làm việc . \n Nó sẽ khiến bạn làm việc đúng khi bạn mất phương hướng , thậm chí không biết làm gì . \n Hãy đặt ra cho mình một mục tiêu để làm , thay vì phí phạm thời gian vào những việc vô bổ , hãy làm việc để đạt được mục tiêu . \n Hãy đặt mục tiêu trong giờ, mục tiêu trong ngày , mục tiêu trong tuần , mục tiêu trong tháng ... và hành động . \n Bạn sẽ tập trung năng lượng của mình vào đó và không lãng phí vào việc vô bổ ."
-},
-{
-"type":"1",
-"name":"GIÁM SÁT THỜI GIAN DÙNG ĐIỆN THOẠI , MÁY TÍNH",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Nếu bạn thống kê thời gian bạn cầm chiếc điện thoại trên tay , nó sẽ khiến bạn sốc . \n Vì bạn cầm nó quá nhiều , mà toàn sử dụng nó vào những vệc vô ích, rút cạn năng lượng của cơ thể . \n Hãy dùng chiếc điện thoại một cách có ích nhất . \n Giám sát thời gian bạn sử dụng nó , chỉ dùng cho những việc có ích , đừng cắm đầu vào game , mạng xã hội , tin hot, giật gân ... \n Dùng máy tính cũng vậy , nếu bạn là dân văn phòng , phải làm việc với máy tính cả ngày , cứ 30 phút hãy nhắm mắt lại để thư dãn , ngồi thẳng lưng , hít thở sâu , tĩnh tâm , tập bài tập xoay cổ , 1 tiếng hãy đứng dậy kéo dãn gân cốt , tập bài tập gập người ,vặn người hoặc chống đẩy , hoặc tập bài tập 5 phút . \n Không ngồi lỳ hàng giờ mà không vận động , sẽ khiến cơ thể bạn mệt mỏi , stress , không có sức sống ."
-},
-{
-"type":"1",
-"name":"ĐIỀU KHIỂN CẢM XÚC - GIÁC NGỘ",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn có cảm thấy rằng khi vui vẻ , mình có một nguồn năng lượng tràn đầy , còn khi buồn thì ngược lại ? \n Nguồn năng lượng đến từ cảm xúc là một trong những nguồn năng lượng mạnh mẽ nhất có thể cứu cả cuộc đời bạn . \n Vậy làm sao để bạn luôn cảm thấy yêu đời , hạnh phúc ? \n Ngay lúc này hãy nhớ rằng : Ô, mình vẫn đang sống , thật tuyệt vời vì điều đó ! \n Nghĩ và mỉm cười , cảm nhận một nguồn năng lượng mới trong con người mình . \n Cuộc sống có vô vàn tác nhân gây tác động đến chúng ta , nhưng hãy để ý mà xem , bạn có thể điều khiển cảm xúc của mình nếu có thể giác ngộ . \n Tại sao lại không chứ ? \n Bạn có thể vui dù có mọi khó khăn, áp lực, dù gặp mọi chuyện buồn . \n Bạn có thể điều khiển nó giống như điều khiển cơ thể mình vậy . \n Điều này rất khó nhưng nếu bạn giác ngộ bạn sẽ làm được , hãy nghĩ mà xem , rốt cuộc cảm xúc là do mình mà ra , mình muốn vui thì vui, muốn buồn thì buồn mà !\n Bạn không thể kiểm soát được những gì sẽ xảy ra trong cuộc sống, nhưng bạn luôn lựa chọn được cách phản ứng của mình.\n Đây không phải kỹ năng bẩm sinh, mọi người đều có thể học kiềm chế cảm xúc của mình một cách hiệu quả . \n Đa số mọi người mắc kẹt trong tâm lý của chính mình mà không giác ngộ được điều này, con người sống trong thế giới ảo do chính mình tạo ra mà quên đi thế giới thật xung quanh .\n Hãy nhìn ra thế giới thật, nhìn ra thiên nhiên , nhìn cây cối , hoa lá , trời đất , mây , mưa , nắng , chim chóc , thú vật ... bạn sẽ thấy đó mới là thế giới thật . \n Một thế giới thật hạnh phúc vui vẻ tuyệt diệu mà mình cả cuộc đời trước đây không để ý ! \n Hãy cảm nhận và giác ngộ !"
-},
-{
-"type":"1",
-"name":"TIẾP XÚC VỚI TRÁI ĐẤT",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy tiếp xúc trực tiếp với trái đất để tiếp nhận nguồn năng lượng từ đất mẹ . \n Ngày nay chúng ta sống trong môi trường bê tông hóa , rồi đi giày dép cả ngày , đã lâu lắm rồi chúng ta không tiếp nhận nguồn năng lượng từ đất mẹ . \n Hãy để ý những người nông dân làm việc trên đồng ruộng, tiếp xúc với đất , họ có sức khỏe và năng lượng yêu đời chứ không uể oải cả ngày như chúng ta . \n Hãy dành một chút thời gian đi chân trần , nằm trên bãi cỏ , cảm nhận năng lượng từ đất mẹ , nó giống như bạn đang được sạc điện từ đất mẹ vậy .\n Đất mẹ là một nguồn điện , bạn tiếp xúc với đất như đang cắm sạc vào nguồn , bạn sẽ thấy cơ thể mình tràn đầy năng lượng !"
-},
-{
-"type":"1",
-"name":"ĐẶT RA MỤC TIÊU ĐỂ HƯỚNG TỚI",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Khi bạn có một mục tiêu để hoàn thành , nó sẽ khiến bạn có động lực làm việc . \n Nó sẽ khiến bạn làm việc đúng khi bạn mất phương hướng , thậm chí không biết làm gì . \n Hãy đặt ra cho mình một mục tiêu để làm , thay vì phí phạm thời gian vào những việc vô bổ , hãy làm việc để đạt được mục tiêu . \n Hãy đặt mục tiêu trong giờ, mục tiêu trong ngày , mục tiêu trong tuần , mục tiêu trong tháng ... và hành động . \n Bạn sẽ tập trung năng lượng của mình vào đó và không lãng phí vào việc vô bổ ."
-},
-{
-"type":"1",
-"name":"LÀM VIỆC TỐT - GIÚP ĐỠ MỌI NGƯỜI",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy giúp đỡ mọi người mà không cần thậm chí một lời cảm ơn . \n Khi bạn làm được việc tốt giúp người khác , tự nhiên trong bạn sản sinh ra một năng lượng tích cực . \n Bạn phải giúp với 1 tâm thế không cần người ta cảm ơn, không cần gì cả, chỉ đơn giản là giúp người mà thôi . \n Bạn càng làm nhiều việc có ích giúp mọi người thì càng có nhiều năng lượng , càng cảm thấy yêu đời và mạnh mẽ ."
 }
 ]}
