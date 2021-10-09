@@ -8,6 +8,22 @@
 "linkdes":"Nếu bạn có thói quen chơi game , đặc biệt là game online thì hãy cố gắng hạn chế nó hết mức có thể .\n Đặc biệt là vào buổi sáng lúc bạn mới thức dậy , tuyệt đối không chơi game .\n Trò chơi có thể hút mọi sự tập trung trong ngày của bạn vào nó và rút cạn Năng Lượng của bạn .\n Năng lượng trong ngày của bạn có một giới hạn , khi nó bị tiêu hao vì game bạn sẽ không còn sự tập trung, trí tuệ , sức lực để làm việc , sau khi chơi game bạn sẽ cảm thấy mệt mỏi , chán nản về chính mình .\n Nếu chơi game trước khi ngủ, nó có thể đi cả vào giấc mơ của bạn và phá hủy bạn .\n Hãy để ý một ngày bạn không chơi game , bạn sẽ cảm thấy sự khác biệt về năng lượng của chính mình .\n Nếu bạn là 1 con nghiện game , không thể bỏ ngay game thì đầu tiên hãy hạn chế hết mức nó , chỉ chơi để giải trí 10p và tuyệt đối không chơi vào buổi sáng để bảo toàn năng lượng của bạn !"
 },
 {
+"type":"0",
+"name":"KHÔNG ĐỌC BÁO, TIN TỨC ONLINE",
+"linkappstore":"https://itunes.apple.com/vn/app/day-hoc-tieng-anh-hay-nhat/id804714551?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconhocta.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta11.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta12.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta13.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta14.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta15.png?raw=true",
+"linkdes":"Không đọc báo , tin tức online  buổi sáng khi thức dậy .\n Ngày nay thông tin tràn ngập , bạn chỉ cần mở 1 trang báo mạng lên thì thôi xong , nó sẽ cuốn bạn vào vòng xoáy thông tin nhiễu loạn .\n Những tin tức có ích thì ít mà những thông tin vô bổ , có hại thì nhiều vô kể . \n Trộm cắp , giết người , cướp của , hãm hiếp , scandal , ... những thông tin có hại này sẽ đập vào mắt bạn , bắt lấy bạn và hút sạch năng lượng và thời gian trong ngày của bạn .\n Nó như một con muỗi khổng lồ bám lấy bạn và hút máu , tiêm nhiễm chất độc hại vào đầu óc của bạn . \n Nếu bạn không thể bỏ ngay thói quen này, hãy lựa chọn những tờ báo uy tín, lựa chọn tin tức có ích rồi mới đọc , nhưng tuyệt đối không đọc vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
+},
+{
+"type":"0",
+"name":"KHÔNG MẠNG XÃ HỘI FACEBOOK,TWITTER,TIKTOK,YOUTUBE...",
+"linkappstore":"https://itunes.apple.com/vn/app/nhat-ky-luu-giu-ngay-yeu/id763202585?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconnhatky.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky1.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky2.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky3.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky4.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky5.jpg?raw=true",
+"linkdes":"Các nền tảng mạng xã hội thậm chí còn nguy hiểm hơn cả việc đọc báo , tin tức online .\n Bởi vì sự lôi cuốn của nó với bạn còn cao hơn gấp nhiều lần .\n Khi bạn bật nó lên , một loạt các thông báo , tin nhắn chat , tin tức hot sẽ cuốn lấy bạn và hút mọi năng lượng, trí tuệ, sự tập trung của bạn .\n Các tin Hot trên các mạng xã hội này chiếm đa số là thông tin độc hại , vô bổ tiêm nhiễm vào đầu óc bạn . \n Khiến bạn có những hành động điên rồ bắt chước theo . \n Không thể phủ nhận là các mạng xã hội này có nhiều thông tin có ích, những thông tin tuyệt vời được chia sẻ , mở mang trí tuệ , thay đổi cuộc sống của chúng ta . Chính vì vậy bạn phải lựa chọn những gì có ích , những kênh tuyệt vời để xem .\n Thời gian trong ngày , năng lượng trong ngày có hạn , đừng lãng phí vào những điều vô bổ . \n Và tuyệt đối không xem vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
+},
+{
 "type":"1",
 "name":"LÊN KẾ HOẠCH CÔNG VIỆC CẦN LÀM TỪ TỐI HÔM TRƯỚC",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
