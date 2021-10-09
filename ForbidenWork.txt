@@ -221,6 +221,6 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy giúp đỡ mọi người mà không cần thậm chí một lời cảm ơn . \n Khi bạn làm được việc tốt giúp người khác , tự nhiên trong bạn sản sinh ra một năng lượng tích cực . \n Bạn phải giúp với 1 tâm thế không cần người ta cảm ơn, không cần gì cả, chỉ đơn giản là giúp người mà thôi ! \n Bạn càng làm nhiều việc có ích giúp mọi người thì càng có nhiều năng lượng , càng cảm thấy yêu đời và mạnh mẽ ."
+"linkdes":"Hãy giúp đỡ mọi người mà không cần thậm chí một lời cảm ơn . \n Khi bạn làm được việc tốt giúp người khác , tự nhiên trong bạn sản sinh ra một năng lượng tích cực . \n Bạn phải giúp với 1 tâm thế không cần người ta cảm ơn, không cần gì cả, chỉ đơn giản là giúp người mà thôi ! \n Bạn càng làm nhiều việc có ích giúp mọi người thì càng có nhiều năng lượng, càng cảm thấy yêu đời và mạnh mẽ ."
 }
 ]}
