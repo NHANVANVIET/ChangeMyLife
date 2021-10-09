@@ -70,5 +70,13 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
 "linkdes":"Giờ tốt nhất để bạn đi ngủ sẽ là khoảng từ 21h đến 22h hàng ngày . \n Sau thời điểm 22h là thời diểm mà các cơ quan trong cơ thể của bạn giảm sự hoạt động và thiên về tráng thái nghỉ ngơi.\n Đó cũng là  thời điểm mà bạn cần có một giấc ngủ để hồi phục sức khỏe cho các cơ quan.\n Hãy lên giường tĩnh tâm thư giãn và chìm vào giấc ngủ . \n Khi bạn có một giấc ngủ ngon , bạn sẽ có năng lượng tràn đầy khi thức dậy ."
+},
+{
+"type":"1",
+"name":"DẬY SỚM TỪ 5H",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Hãy dậy sớm lúc 5h sáng .\n Dậy sớm vào khoảng 5h sáng mang đến rất nhiều lợi ích cho sức khỏe.\n Bạn sẽ hạnh phúc hơn, vui vẻ hơn và làm việc hiệu quả hơn. \n Dậy sớm giúp bạn có thêm thời gian trong ngày để làm việc có ích cho cơ thể . \n Giúp bạn có thời gian tập thể dục , vệ sinh cá nhân , ăn sáng ... mà không lo sợ thời gian đi làm . \n Ngoài ra nó còn giúp bạn hít thở không khí trong lành , ngắm ánh bình minh , giảm stress , cải thiện giấc ngủ buổi tối . \n Tất cả đều là những điều tuyệt vời mà bạn sẽ bỏ lỡ nếu còn ngủ nướng . \n Hãy đạy sớm và cảm nhận nguồn năng lượng tuyệt vời này !"
 }
 ]}
