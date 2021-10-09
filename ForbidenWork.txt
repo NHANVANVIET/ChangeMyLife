@@ -17,7 +17,7 @@
 },
 {
 "type":"0",
-"name":"KHÔNG MẠNG XÃ HỘI FACEBOOK,TWITTER,TIKTOK,YOUTUBE...",
+"name":"KHÔNG MẠNG XÃ HỘI",
 "linkappstore":"https://itunes.apple.com/vn/app/nhat-ky-luu-giu-ngay-yeu/id763202585?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconnhatky.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky1.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky2.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky3.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky4.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky5.jpg?raw=true",
@@ -41,7 +41,7 @@
 },
 {
 "type":"0",
-"name":"KHÔNG ĐỂ ĐIỆN THOẠI ĐẦU GIƯỜNG NGỦ",
+"name":"KHÔNG CẦM ĐIỆN THOẠI KHI NGỦ",
 "linkappstore":"https://apps.apple.com/vn/app/memory-tap-tap/id824061925",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icongametrinho.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho5.png?raw=true",
@@ -54,14 +54,6 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
 "linkdes":"Buổi sáng sớm thức dậy bạn không nên bật tivi lên xem , các chương trình tivi, phim truyện , giải trí ... sẽ cuốn hút bạn . \n Và bạn sẽ tốn tất cả thời gian vào nó . Cuối cùng bạn sẽ cảm thấy mỏi mệt và chán chường . \n Năng lượng của bạn đã tiêu hao vào các chương trình đó . \n Sáng sớm thức dậy hãy để cho đầu óc thảnh thơi .\n Tuyệt đối không xem tivi vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
-},
-{
-"type":"1",
-"name":"DỌN DẸP NHÀ CỬA GỌN GÀNG SẠCH SẼ TRƯỚC KHI NGỦ",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Trước khi đi ngủ , bạn hãy dọn dẹp nhà cửa , phòng ngủ thật gọn gàng sạch sẽ . \n Cách xa tivi , điện thoại , các vật dụng gây ồn ào ... \n Bạn sẽ có một giấc ngủ với điều kiện tốt nhất để ngủ ngon mà không bị làm phiền . \n Ngoài ra , khi bạn thức đậy , mọi thứ đều gọn gàng ngăn nắp sẽ mang đến một sức sống , một nguồn năng lượng tốt cho cơ thể . \n Vì vậy trước khi đi ngủ hãy dọn phòng ngủ của bạn gọn gàng sạch sẽ , ngăn nắp ."
 },
 {
 "type":"1",
@@ -93,7 +85,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn đừng bao giờ coi thường việc gấp gọn chăn màn, dọn dẹp chỗ ngủ khi thức dậy . \n Hãy để ý mà xem, những người bê tha, bệ rạc , thiếu sức sống họ đều không làm điều này . \n Bạn không muốn giống họ chứ ? \n Khi bạn để chăn màn chỗ ngủ bừa bộn , theo tâm linh , ma quỷ sẽ nhảy múa trên đó , theo khoa học thì nó phát ra một nguốn năng lượng xấu ảnh hưởng đến bạn . \n Chỉ cần nhìn vào nó thôi bạn cũng sẽ cảm thấy mệt mỏi bức bối . \n Vì thế hãy gấp gọn chăn màn,dọn dẹp chỗ ngủ của bạn khi thức dậy ."
+"linkdes":"Bạn đừng bao giờ coi thường việc gấp gọn chăn màn, dọn dẹp chỗ ngủ khi thức dậy . \n Hãy để ý mà xem, những người bê tha, bệ rạc , thiếu sức sống họ đều không làm điều này . \n Bạn không muốn giống họ chứ ? \n Khi bạn để chăn màn chỗ ngủ bừa bộn , theo tâm linh , ma quỷ sẽ nhảy múa trên đó , theo khoa học thì nó phát ra một nguốn năng lượng xấu ảnh hưởng đến bạn . \n Chỉ cần nhìn vào nó thôi bạn cũng sẽ cảm thấy mệt mỏi bức bối . \n Vì thế hãy gấp gọn chăn màn,dọn dẹp chỗ ngủ của bạn khi thức dậy."
 },
 {
 "type":"1",
@@ -109,166 +101,6 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Sau khoảng thời gian tĩnh tâm , cơ thể bạn đã bắt đầu tỉnh thức . \n Bạn sẽ cảm thấy mình bắt đầu đứng dậy và bắt đầu tập nhẹ nhàng . \n Để cơ thể hoạt động tốt trong một ngày dài , bạn phải khởi động bôi trơn nó như một cỗ máy vậy . \n Hãy đứng thả lỏng , từ từ cúi đầu cằm chạm ngực , từ từ ngẩng đầu lên cằm hướng lên trời , rồi từ từ quay đầu sang bên phải, trái , từ từ quay cổ 1 vòng từ trái qua khải rồi ngược lại . \n Lặp lại các động tác đó để máu lưu thông lên não bạn . \n Giơ hai tay lên trời hướng mặt phía đông (hướng mặt trời mọc) từ từ cúi gập người xuống tay chạm đất , từ từ đứng lên ngửa người ra sau , tiếp theo hai tay thẳng trước mặt từ từ xoay về bên trái , rồi lại xoay bên phải . \n Lặp lại các động tác trên để  máu huyết lưu thông thân thể của bạn . \n Tiếp theo từ từ ngồi xổm xuống giữ một lúc rồi từ từ đứng lên . \n Lặp lại để máu huyết lưu thông đôi chân, gân cốt của bạn . \n Xoay cổ chân , cổ tay , khuỷu tay , cánh tay , đầu gối , eo của bạn một lúc cho năng luọng lan tỏa toàn thân . \n Chùng gối , nhảy lên vài cái kết thúc bài thể dục .\n Có thể tập bài này khi bạn giải lao giữa lúc làm việc, ngồi máy tính lâu căng thẳng .\n Ngắm ánh bình minh , để ánh mặt trời tràn lên cơ thể của bạn, cảm nhận thiên nhiên và tiếp thu lấy nguồn năng lượng tuyệt vời đó !"
-},
-{
-"type":"1",
-"name":"GIẶT KHĂN MẶT , PHƠI KHĂN MẶT",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Khi bạn rửa mặt xong , hãy giặt khăn mặt bằng tay , có dùng cả nước xả vải thơm , rồi sau đó đem khăn mặt ra phơi dưới ánh sáng mặt trời . \n Có những điều nhỏ nhặt mà bạn sẽ không ngờ về tác dụng của nó với cơ thể và năng lượng của bạn . \n Khuôn mặt bạn quan trọng thế nào thì một chiếc khăn mặt quan trọng như thế . \n Hãy xem một chiếc khăn mặt sạch sẽ , thơm tho vào buổi sáng úp vào mặt bạn sẽ khác biệt thế nào với một chiếc khăn nhớp nháp hôi hám ? \n Hãy thay khăn mặt định kỳ để giữ da mặt bạn được tốt ."
-},
-{
-"type":"1",
-"name":"UỐNG NƯỚC KHI THỨC DẬY",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Buổi sáng sớm khi bạn thức dậy , hãy uống một cốc nước . \n Nước chiếm hơn 70% cơ thể con người , sau một đêm dài cơ thể cần nước để làm mát, thanh lọc ở cấp độ tế bào . \n Hãy uống một cốc nước để cho cơ thể hoạt động tốt nhất . \n Uống nước buổi sáng giúp giảm cân , cải thiện tiêu hóa , tăng cường miễn dịch và ngăn ngừa tình trạng đau đầu , thải độc tố , tốt cho da dẻ , tăng năng lượng ... \n Thói quen uống nước ngay sau khi thức dậy vào buổi sáng sẽ tăng mức năng lượng cơ thể ngay lập tức, giúp bạn cảm thấy tràn đầy năng lượng . \n Tất cả lợi ích tuyệt vời đó bạn đừng bỏ qua ! "
-},
-{
-"type":"1",
-"name":"ĂN ĐÚNG CÁCH",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Khoảng cách giữa các bữa ăn từ 5 đến 6h , bữa tối trước lúc ngủ nên cách lúc ngủ ít nhất 3h . \n Bạn sẽ không muốn gây áp lực lên các cơ quan trong lúc ngủ để tiêu hóa thức ăn đâu . \n Khẩu phần ăn nên có 40% rau xanh và hoa quả . \n Hãy để ý các loại thức ăn mà bạn đưa vào cơ thể , nếu thấy thức ăn có thể tiêu hóa trong 3h , đó là loại thức ăn mà cơ thể của bạn có thể xử lý được . \n Nếu không hãy không ăn các thực phẩm đó hoặc ăn giảm số lượng nó . \n Hãy cảm thấy biết ơn những thực phẩm mà bạn ăn vào !"
-},
-{
-"type":"1",
-"name":"UỐNG ĐÚNG CÁCH",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy uống nước trong bình , đã đựng khoảng 7h-8h . \n Uống nước tốt nhất trong khoảng 4 độ chênh lệch với nhiệt độ cơ thể , không nên uống nước đá . \n Nguồn nước là tối quan trọng với cơ thể , đi vào cả cấp độ tế bào . \n Các nhà khoa học còn chứng minh rằng nước có thể lưu trữ thông tin . \n Hãy uống nước khi khát và uống nhiều hơn 1 chút hoảng 10% , cơ thể sẽ tự đào thải lượng nước dư thừa . \n Không nên uống nhấp từng ngụm liên tục trong thời gian dài, nó đánh lừa cơ thể bạn làm bạn uống quá nhiều nước gây mất cân bằng ."
-},
-{
-"type":"1",
-"name":"TẮM ĐÚNG CÁCH",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Tắm không chỉ là gội sạch bụi bẩn trên cơ thể bạn . \n Mà còn có một sự thanh lọc ở cấp độ tế bào trong cơ thể chiếm hơn 70% là nước của bạn .\n Cách tắm tốt nhất là ngụp lặn trong bể hoặc dưới sông .\n Cơ thể nên được nhúng chìm trong nước . \n Đó là cách giúp cơ thể bạn khỏe mạnh . \n Nếu không có điều kiện, hãy tắm nước mát hơn từ 5-8 độ so với nhiệt độ phòng , để nước chảy từ trên đỉnh đầu xuống .\n Hãy để ý khi bạn có một ngày dài mệt mỏi căng thẳng , bạn tới đứng dưới vòi hoa sen 3 đến 5 phút , khi bước ra , mọi vấn đề biến mất ! \n Bạn như mới vừa được sinh ra vậy ! \n Một khi cấu trúc tế bào của bạn được sạc năng lượng nó sẽ duy trì sự tươi trẻ cho bạn một thời gian dài ."
-},
-{
-"type":"1",
-"name":"TẬP CHỐNG ĐẨY , TẬP KÉO XÀ",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Chống đẩy là một cách dễ dàng mà bạn có thể làm mọi lúc . \n Nó mang lại cho bạn rất nhiều lợi ích : tự tin, tay to, ngực nở bụng săn , cơ bắp , khí huyết lưu thông . \n Kéo xà cũng vậy , nó làm dãn gân cốt, tăng dẻo dai cho cơ thể bạn . \n Hãy tập chống đẩy, và kéo xà đúng cách bất cứ khi nào rảnh , khi bạn giải lao giữa lúc làm .\n Nếu thấy khát, hãy uống nước sau mỗi lần tập . \n Chỉ sau một tháng bạn sẽ thấy khác biệt từ bên trong lẫn bên ngoài cơ thể ."
-},
-{
-"type":"1",
-"name":"TẬP THỂ DỤC TRONG 5 PHÚT GIẢI LAO",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn chỉ cần tập bài này trong nhà 5 phút , bất cứ khi nào cần . \n Nó sẽ giúp cơ thể bạn khỏe mạnh dẻo dai tràn đầy sức mạnh như một võ sĩ người hướng dẫn bài tập này .\n Nếu thấy khát, hãy uống nước sau mỗi lần tập . \n Link : https://www.youtube.com/watch?v=q7n1gmPvkUU"
-},
-{
-"type":"1",
-"name":"HỌC MỘT NGÔN NGỮ MỚI - TIẾNG ANH",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Một ngày hãy bỏ ra 30p để học một ngôn ngữ mới . \n Đặc biệt là tiếng Anh . \n Nó sẽ là một công cụ giao tiếp tuyệt vời , giúp khai sáng cuộc đời của bạn . \n Nó sẽ giúp bạn nổi bật hơn tất cả trong đám đông , giúp bạn thành công trong mọi việc . \n Giúp bạn tăng giá trị của bản thân lên một tầm cao mới . \n Hãy nghe tôi, bỏ ra 30p một ngày để học nó và cuộc đời bạn sẽ thay đổi ."
-},
-{
-"type":"1",
-"name":"LÊN KẾ HOẠCH CÔNG VIỆC CẦN LÀM TỪ TỐI HÔM TRƯỚC",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy lên kế hoạch công việc cần làm của bạn ngày hôm sau vào buổi tối hôm trước . \n Để khi bạn ngồi vào bàn làm việc , bạn chỉ có duy nhất một điều đó là hoàn thành nó . \n Không phải lan man suy nghĩ mất thời gian, không phải chịu những tác động khác , chỉ đơn giản là làm việc . \n Bạn sẽ dành toàn bộ năng lượng của mình để làm việc mà không phải tiêu hao nó cho việc không đáng ."
-},
-{
-"type":"1",
-"name":"ĐẶT RA MỤC TIÊU ĐỂ HƯỚNG TỚI",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Khi bạn có một mục tiêu để hoàn thành , nó sẽ khiến bạn có động lực làm việc . \n Nó sẽ khiến bạn làm việc đúng khi bạn mất phương hướng , thậm chí không biết làm gì . \n Hãy đặt ra cho mình một mục tiêu để làm , thay vì phí phạm thời gian vào những việc vô bổ , hãy làm việc để đạt được mục tiêu . \n Hãy đặt mục tiêu trong giờ, mục tiêu trong ngày , mục tiêu trong tuần , mục tiêu trong tháng ... và hành động . \n Bạn sẽ tập trung năng lượng của mình vào đó và không lãng phí vào việc vô bổ ."
-},
-{
-"type":"1",
-"name":"GIÁM SÁT THỜI GIAN DÙNG ĐIỆN THOẠI , MÁY TÍNH",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Nếu bạn thống kê thời gian bạn cầm chiếc điện thoại trên tay , nó sẽ khiến bạn sốc . \n Vì bạn cầm nó quá nhiều , mà toàn sử dụng nó vào những vệc vô ích, rút cạn năng lượng của cơ thể . \n Hãy dùng chiếc điện thoại một cách có ích nhất . \n Giám sát thời gian bạn sử dụng nó , chỉ dùng cho những việc có ích , đừng cắm đầu vào game , mạng xã hội , tin hot, giật gân ... \n Dùng máy tính cũng vậy , nếu bạn là dân văn phòng , phải làm việc với máy tính cả ngày , cứ 30 phút hãy nhắm mắt lại để thư dãn , ngồi thẳng lưng , hít thở sâu , tĩnh tâm , tập bài tập xoay cổ , 1 tiếng hãy đứng dậy kéo dãn gân cốt , tập bài tập gập người ,vặn người hoặc chống đẩy , hoặc tập bài tập 5 phút . \n Không ngồi lỳ hàng giờ mà không vận động , sẽ khiến cơ thể bạn mệt mỏi , stress , không có sức sống ."
-},
-{
-"type":"1",
-"name":"ĐIỀU KHIỂN CẢM XÚC - GIÁC NGỘ",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn có cảm thấy rằng khi vui vẻ , mình có một nguồn năng lượng tràn đầy , còn khi buồn thì ngược lại ? \n Nguồn năng lượng đến từ cảm xúc là một trong những nguồn năng lượng mạnh mẽ nhất có thể cứu cả cuộc đời bạn . \n Vậy làm sao để bạn luôn cảm thấy yêu đời , hạnh phúc ? \n Ngay lúc này hãy nhớ rằng : Ô, mình vẫn đang sống , thật tuyệt vời vì điều đó ! \n Nghĩ và mỉm cười , cảm nhận một nguồn năng lượng mới trong con người mình . \n Cuộc sống có vô vàn tác nhân gây tác động đến chúng ta , nhưng hãy để ý mà xem , bạn có thể điều khiển cảm xúc của mình nếu có thể giác ngộ . \n Tại sao lại không chứ ? \n Bạn có thể vui dù có mọi khó khăn, áp lực, dù gặp mọi chuyện buồn . \n Bạn có thể điều khiển nó giống như điều khiển cơ thể mình vậy . \n Điều này rất khó nhưng nếu bạn giác ngộ bạn sẽ làm được , hãy nghĩ mà xem , rốt cuộc cảm xúc là do mình mà ra , mình muốn vui thì vui, muốn buồn thì buồn mà !\n Bạn không thể kiểm soát được những gì sẽ xảy ra trong cuộc sống, nhưng bạn luôn lựa chọn được cách phản ứng của mình.\n Đây không phải kỹ năng bẩm sinh, mọi người đều có thể học kiềm chế cảm xúc của mình một cách hiệu quả . \n Đa số mọi người mắc kẹt trong tâm lý của chính mình mà không giác ngộ được điều này, con người sống trong thế giới ảo do chính mình tạo ra mà quên đi thế giới thật xung quanh .\n Hãy nhìn ra thế giới thật, nhìn ra thiên nhiên , nhìn cây cối , hoa lá , trời đất , mây , mưa , nắng , chim chóc , thú vật ... bạn sẽ thấy đó mới là thế giới thật . \n Một thế giới thật hạnh phúc vui vẻ tuyệt diệu mà mình cả cuộc đời trước đây không để ý ! \n Hãy cảm nhận và giác ngộ !"
-},
-{
-"type":"1",
-"name":"TIẾP XÚC VỚI TRÁI ĐẤT",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy tiếp xúc trực tiếp với trái đất để tiếp nhận nguồn năng lượng từ đất mẹ . \n Ngày nay chúng ta sống trong môi trường bê tông hóa , rồi đi giày dép cả ngày , đã lâu lắm rồi chúng ta không tiếp nhận nguồn năng lượng từ đất mẹ . \n Hãy để ý những người nông dân làm việc trên đồng ruộng, tiếp xúc với đất , họ có sức khỏe và năng lượng yêu đời chứ không uể oải cả ngày như chúng ta . \n Hãy dành một chút thời gian đi chân trần , nằm trên bãi cỏ , cảm nhận năng lượng từ đất mẹ , nó giống như bạn đang được sạc điện từ đất mẹ vậy .\n Đất mẹ là một nguồn điện , bạn tiếp xúc với đất như đang cắm sạc vào nguồn , bạn sẽ thấy cơ thể mình tràn đầy năng lượng !"
-},
-{
-"type":"1",
-"name":"ĐẶT RA MỤC TIÊU ĐỂ HƯỚNG TỚI",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Khi bạn có một mục tiêu để hoàn thành , nó sẽ khiến bạn có động lực làm việc . \n Nó sẽ khiến bạn làm việc đúng khi bạn mất phương hướng , thậm chí không biết làm gì . \n Hãy đặt ra cho mình một mục tiêu để làm , thay vì phí phạm thời gian vào những việc vô bổ , hãy làm việc để đạt được mục tiêu . \n Hãy đặt mục tiêu trong giờ, mục tiêu trong ngày , mục tiêu trong tuần , mục tiêu trong tháng ... và hành động . \n Bạn sẽ tập trung năng lượng của mình vào đó và không lãng phí vào việc vô bổ ."
-},
-{
-"type":"1",
-"name":"LÀM VIỆC TỐT - GIÚP ĐỠ MỌI NGƯỜI",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy giúp đỡ mọi người mà không cần thậm chí một lời cảm ơn . \n Khi bạn làm được việc tốt giúp người khác , tự nhiên trong bạn sản sinh ra một năng lượng tích cực . \n Bạn phải giúp với 1 tâm thế không cần người ta cảm ơn, không cần gì cả, chỉ đơn giản là giúp người mà thôi ! \n Bạn càng làm nhiều việc có ích giúp mọi người thì càng có nhiều năng lượng , càng cảm thấy yêu đời và mạnh mẽ ."
-},
-{
-"type":"1",
-"name":"TĨNH TÂM",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Buổi sáng sớm khi bạn vừa thức dậy"
-},
-{
-"type":"1",
-"name":"TĨNH TÂM",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Buổi sáng sớm khi bạn vừa thức dậy"
-},
-{
-"type":"1",
-"name":"TĨNH TÂM",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Buổi sáng sớm khi bạn vừa thức dậy"
-},
-{
-"type":"1",
-"name":"TĨNH TÂM",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Buổi sáng sớm khi bạn vừa thức dậy"
-},
-{
-"type":"1",
-"name":"TĨNH TÂM",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Buổi sáng sớm khi bạn vừa thức dậy"
+"linkdes":"Sau khoảng thời gian tĩnh tâm , cơ thể bạn đã bắt đầu tỉnh thức . \n Bạn sẽ cảm thấy mình bắt đầu đứng dậy và bắt đầu tập nhẹ nhàng . \n Để cơ thể hoạt động tốt trong một ngày dài , bạn phải khởi động bôi trơn nó như một cỗ máy vậy . \n Hãy đứng thả lỏng , từ từ cúi đầu cằm chạm ngực , từ từ ngẩng đầu lên cằm hướng lên trời , rồi từ từ quay đầu sang bên phải, trái , từ từ quay cổ 1 vòng từ trái qua khải rồi ngược lại . \n Lặp lại các động tác đó để máu lưu thông lên não bạn . \n Giơ hai tay lên trời hướng mặt phía đông ( hướng mặt trời mọc ) từ từ cúi gập người xuống tay chạm đất , từ từ đứng lên ngửa người ra sau , tiếp theo hai tay thẳng trước mặt từ từ xoay về bên trái , rồi lại xoay bên phải . \n Lặp lại các động tác trên để  máu huyết lưu thông thân thể của bạn . \n Tiếp theo từ từ ngồi xổm xuống giữ một lúc rồi từ từ đứng lên . \n Lặp lại để máu huyết lưu thông đôi chân, gân cốt của bạn . \n Xoay cổ chân , cổ tay , khuỷu tay , cánh tay , đầu gối , eo của bạn một lúc cho năng luọng lan tỏa toàn thân . \n Chùng gối , nhảy lên vài cái kết thúc bài thể dục .\n Có thể tập bài này khi bạn giải lao giữa lúc làm việc, ngồi máy tính lâu căng thẳng .\n Ngắm ánh bình minh , để ánh mặt trời tràn lên cơ thể của bạn, cảm nhận thiên nhiên và tiếp thu lấy nguồn năng lượng tuyệt vời đó !"
 }
 ]}
