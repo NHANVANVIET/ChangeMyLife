@@ -177,7 +177,7 @@
 },
 {
 "type":"1",
-"name":"LÊN KẾ HOẠCH CÔNG VIỆC CẦN LÀM TỪ TỐI HÔM TRƯỚC",
+"name":"LÊN KẾ HOẠCH VIỆC CẦN LÀM TỪ TỐI HÔM TRƯỚC",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
