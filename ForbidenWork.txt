@@ -177,6 +177,14 @@
 },
 {
 "type":"1",
+"name":"ĐI BỘ",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Bạn hãy dành ít nhất 30 phút đi bộ mỗi ngày . \n Nó sẽ giúp cải thiện cả sức mạnh tinh thần lẫn thể chất của bạn .\n Đi bộ là một điều tuyệt vời nhất bạn làm với cơ thể của mình . \n Giúp cơ thể bạn hoạt động trơn tru , mọi tế bào được khởi động , nếu bạn đang stress hãy đi bộ , nếu bạn đang bế tắc , hãy đi bộ , nếu bạn đang nằm nhà mệt mỏi , hãy đi bộ và nó sẽ giải quyết tất cả mọi vấn đề của bạn . \n Hãy thử mà xem , đi bộ sẽ khiến đầu óc bạn minh mẫn và sáng suốt giải quyết những bế tắc cả về thể chất lẫn tinh thần ."
+},
+{
+"type":"1",
 "name":"HỌC MỘT NGÔN NGỮ MỚI - TIẾNG ANH",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
