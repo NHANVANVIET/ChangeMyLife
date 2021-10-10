@@ -57,6 +57,14 @@
 },
 {
 "type":"1",
+"name":"DỌN DẸP PHÒNG TRƯỚC KHI NGỦ",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Trước khi đi ngủ , bạn hãy dọn dẹp nhà cửa , phòng ngủ thật gọn gàng sạch sẽ . \n Cách xa tivi , điện thoại , các vật dụng gây ồn ào ... \n Bạn sẽ có một giấc ngủ với điều kiện tốt nhất để ngủ ngon mà không bị làm phiền . \n Ngoài ra , khi bạn thức đậy , mọi thứ đều gọn gàng ngăn nắp sẽ mang đến một sức sống , một nguồn năng lượng tốt cho cơ thể . \n Vì vậy trước khi đi ngủ hãy dọn phòng ngủ của bạn gọn gàng sạch sẽ , ngăn nắp ."
+},
+{
+"type":"1",
 "name":"ĐỐT MỘT CÂY NẾN THƠM KHI NGỦ",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
