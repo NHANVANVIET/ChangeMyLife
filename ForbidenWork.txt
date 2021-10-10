@@ -57,30 +57,6 @@
 },
 {
 "type":"1",
-"name":"DỌN DẸP PHÒNG TRƯỚC KHI NGỦ",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Trước khi đi ngủ , bạn hãy dọn dẹp nhà cửa , phòng ngủ thật gọn gàng sạch sẽ . \n Cách xa tivi , điện thoại , các vật dụng gây ồn ào ... \n Bạn sẽ có một giấc ngủ với điều kiện tốt nhất để ngủ ngon mà không bị làm phiền . \n Ngoài ra , khi bạn thức đậy , mọi thứ đều gọn gàng ngăn nắp sẽ mang đến một sức sống , một nguồn năng lượng tốt cho cơ thể . \n Vì vậy trước khi đi ngủ hãy dọn phòng ngủ của bạn gọn gàng sạch sẽ , ngăn nắp ."
-},
-{
-"type":"1",
-"name":"ĐỐT MỘT CÂY NẾN THƠM KHI NGỦ",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy đốt một cây nến thơm trước khi ngủ . \n Đặt cây nến tại vị trí an toàn , có khoảng cách với chỗ nằm . \n Thứ nhất mùi thơm của nến toả ra giúp bạn tĩnh tâm , dễ chịu , dễ chìm vào giấc ngủ . \n Thứ hai , sự sống trên trái đất bắt nguồn từ ngọn lửa mặt trời , nó tượng trưng cho sự sống , niềm tin , sự vươn lên mạnh mẽ ... \n Ngọn lửa sẽ xua tan sự sợ hãi sâu trong con người của bạn . \n Hãy hình dung xem , trong đêm tối mịt mù, bạn bị lạc giữa một khu rừng , chỉ cần có một ngọn lửa thắp lên nó sẽ giúp bạn vượt qua bóng tối . \n Tiếp thêm năng lượng cho bạn ."
-},
-{
-"type":"1",
-"name":"ĐI NGỦ SỚM TỪ 21H - 22H",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Giờ tốt nhất để bạn đi ngủ sẽ là khoảng từ 21h đến 22h hàng ngày . \n Sau thời điểm 22h là thời diểm mà các cơ quan trong cơ thể của bạn giảm sự hoạt động và thiên về tráng thái nghỉ ngơi.\n Đó cũng là  thời điểm mà bạn cần có một giấc ngủ để hồi phục sức khỏe cho các cơ quan.\n Hãy lên giường tĩnh tâm thư giãn và chìm vào giấc ngủ . \n Khi bạn có một giấc ngủ ngon , bạn sẽ có năng lượng tràn đầy khi thức dậy ."
-},
-{
-"type":"1",
 "name":"DẬY SỚM TỪ 5H",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
@@ -262,5 +238,29 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
 "linkdes":"Hàng ngày ,vào cuối ngày hãy dành ra 15 phút tổng kết xem một ngày bạn làm được bao nhiêu việc và tự cho điểm . \n Hãy ngẫm nghĩ , rút ra bài học về những việc đã làm được và chưa làm được . \n Phần mềm này không những hướng dẫn bạn thay đổi bản thân mà nó còn là một cuốn nhật ký hành trình thay đổi . \n Hàng tháng hãy nhìn lại và mỉm cười nếu ngày nào cũng là một ngày có ích của bạn ."
+},
+{
+"type":"1",
+"name":"DỌN DẸP PHÒNG TRƯỚC KHI NGỦ",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Trước khi đi ngủ , bạn hãy dọn dẹp nhà cửa , phòng ngủ thật gọn gàng sạch sẽ . \n Cách xa tivi , điện thoại , các vật dụng gây ồn ào ... \n Bạn sẽ có một giấc ngủ với điều kiện tốt nhất để ngủ ngon mà không bị làm phiền . \n Ngoài ra , khi bạn thức đậy , mọi thứ đều gọn gàng ngăn nắp sẽ mang đến một sức sống , một nguồn năng lượng tốt cho cơ thể . \n Vì vậy trước khi đi ngủ hãy dọn phòng ngủ của bạn gọn gàng sạch sẽ , ngăn nắp ."
+},
+{
+"type":"1",
+"name":"ĐỐT MỘT CÂY NẾN THƠM KHI NGỦ",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Hãy đốt một cây nến thơm trước khi ngủ . \n Đặt cây nến tại vị trí an toàn , có khoảng cách với chỗ nằm . \n Thứ nhất mùi thơm của nến toả ra giúp bạn tĩnh tâm , dễ chịu , dễ chìm vào giấc ngủ . \n Thứ hai , sự sống trên trái đất bắt nguồn từ ngọn lửa mặt trời , nó tượng trưng cho sự sống , niềm tin , sự vươn lên mạnh mẽ ... \n Ngọn lửa sẽ xua tan sự sợ hãi sâu trong con người của bạn . \n Hãy hình dung xem , trong đêm tối mịt mù, bạn bị lạc giữa một khu rừng , chỉ cần có một ngọn lửa thắp lên nó sẽ giúp bạn vượt qua bóng tối . \n Tiếp thêm năng lượng cho bạn ."
+},
+{
+"type":"1",
+"name":"ĐI NGỦ SỚM TỪ 21H - 22H",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Giờ tốt nhất để bạn đi ngủ sẽ là khoảng từ 21h đến 22h hàng ngày . \n Sau thời điểm 22h là thời diểm mà các cơ quan trong cơ thể của bạn giảm sự hoạt động và thiên về tráng thái nghỉ ngơi.\n Đó cũng là  thời điểm mà bạn cần có một giấc ngủ để hồi phục sức khỏe cho các cơ quan.\n Hãy lên giường tĩnh tâm thư giãn và chìm vào giấc ngủ . \n Khi bạn có một giấc ngủ ngon , bạn sẽ có năng lượng tràn đầy khi thức dậy ."
 }
 ]}
