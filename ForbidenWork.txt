@@ -201,6 +201,14 @@
 },
 {
 "type":"1",
+"name":"LIỆT KÊ THÓI XẤU CỦA BẢN THÂN ĐỂ TỪ BỎ",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Hãy liệt kê thói hư tật xấu của bản thân mà bạn phải từ bỏ nếu muốn cuộc đời tốt lên . \n Nó sẽ khiến bạn rõ ràng trong tâm trí phải từ bỏ nó . \n Hãy cố gắng hết sức , không được ngay thì từ từ phải làm để thay đồi cuộc đời bạn . \n Bạn không muốn mình là kẻ thất bại trong cuộc đời này đâu . \n Hãy cố gắng , thành quả sẽ đến với bạn sớm thôi ."
+},
+{
+"type":"1",
 "name":"GIÁM SÁT THỜI GIAN DÙNG ĐIỆN THOẠI , MÁY TÍNH",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
