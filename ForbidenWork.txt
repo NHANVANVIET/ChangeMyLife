@@ -33,19 +33,19 @@
 },
 {
 "type":"0",
-"name":"KHÔNG CẦM ĐIỆN THOẠI KHI NGỦ",
-"linkappstore":"https://apps.apple.com/vn/app/memory-tap-tap/id824061925",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icongametrinho.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho5.png?raw=true",
-"linkdes":"Khi đến giờ đi ngủ , bạn hãy để điện thoại của mình ngoài phòng ngủ .\n Bạn có thói quen cầm điện thoại xem, chơi trước khi ngủ ? \n Đó là một thói quen xấu . \n Ánh sáng điện thoại , sóng điện thoại , tin tức, game điện thoại sẽ làm bạn lâu chìm vao giấc ngủ hơn. \n Nó phá hủy giấc ngủ của bạn . \n Nửa đêm bạn tỉnh giấc , lại cầm điện thoại và xem, thậm chí chỉ là xem giờ , nó lại phá hủy bạn một lần nữa . \n Bạn sẽ không có được một giấc ngủ ngon . \n Khi không có giấc ngủ ngon, bạn sẽ thức dậy trong trạng thái rã rời mệt mỏi cả ngày không có năng lượng . \n Vậy tuyệt đối không cầm điện thoại khi bạn đi ngủ để có được năng lượng tràn đầy khi thức dậy !"
-},
-{
-"type":"0",
 "name":"KHÔNG XEM TIVI",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
 "linkdes":"Buổi sáng sớm thức dậy bạn không được bật tivi lên xem , các chương trình tivi, phim truyện , giải trí ... sẽ cuốn hút bạn . \n Và bạn sẽ tốn tất cả thời gian vào nó . \n Bạn không thể rời ra và cuối cùng bạn sẽ nằm dài mỏi mệt và chán chường . \n Năng lượng của bạn đã tiêu hao vào các chương trình đó . \n Sáng sớm thức dậy hãy để cho đầu óc thảnh thơi .\n Tuyệt đối không xem tivi vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
+},
+{
+"type":"0",
+"name":"KHÔNG CẦM ĐIỆN THOẠI KHI NGỦ",
+"linkappstore":"https://apps.apple.com/vn/app/memory-tap-tap/id824061925",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icongametrinho.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho5.png?raw=true",
+"linkdes":"Khi đến giờ đi ngủ , bạn hãy để điện thoại của mình ngoài phòng ngủ .\n Bạn có thói quen cầm điện thoại xem, chơi trước khi ngủ ? \n Đó là một thói quen xấu . \n Ánh sáng điện thoại , sóng điện thoại , tin tức, game điện thoại sẽ làm bạn lâu chìm vao giấc ngủ hơn. \n Nó phá hủy giấc ngủ của bạn . \n Nửa đêm bạn tỉnh giấc , lại cầm điện thoại và xem, thậm chí chỉ là xem giờ , nó lại phá hủy bạn một lần nữa . \n Bạn sẽ không có được một giấc ngủ ngon . \n Khi không có giấc ngủ ngon, bạn sẽ thức dậy trong trạng thái rã rời mệt mỏi cả ngày không có năng lượng . \n Vậy tuyệt đối không cầm điện thoại khi bạn đi ngủ để có được năng lượng tràn đầy khi thức dậy !"
 },
 {
 "type":"0",
