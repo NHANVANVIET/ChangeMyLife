@@ -193,6 +193,14 @@
 },
 {
 "type":"1",
+"name":"LÀM VIỆC HẾT MÌNH",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Hãy làm việc bằng tình yêu , không phải trách nhiệm . \n Khi bạn đang có một công việc để làm , đừng bao giờ phàn nàn vì nó . \n Hãy trân trọng công việc mình đang làm , nó đang nuôi sống bạn hoặc đã từng nuôi sống bạn . \n Hãy nhớ những ngày bạn thất nghiệp , công việc quan trọng với bạn thế nào ? \n Nếu bạn không được làm việc mình thích thì bạn phải thích việc mình làm . \n Để có được thành công bạn hãy làm việc hết mình không phàn nàn , quý trọng công việc mình đang làm ."
+},
+{
+"type":"1",
 "name":"LIỆT KÊ THÓI XẤU CỦA BẢN THÂN ĐỂ TỪ BỎ",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
