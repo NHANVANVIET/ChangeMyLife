@@ -57,6 +57,14 @@
 },
 {
 "type":"1",
+"name":"CƠ THỂ GỌN GÀNG VÀ SẠCH SẼ",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Đầu tóc lúc nào cũng phải gọn gàng sạch sẽ , cắt móng tay móng chân , quần áo sạch sẽ . \n Một ngày đánh răng ít nhất 2 lần sau khi ăn . \n Tắm rửa khi bạn đi làm ngoài về . \n Rửa tay khi đi vệ sinh , không vứt rác bừa bãi ... \n Đầu tiên hãy rèn luyện bản thân liên tục như vậy ."
+},
+{
+"type":"1",
 "name":"DẬY SỚM TỪ 5H",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
@@ -70,14 +78,6 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
 "linkdes":"Bạn đừng bao giờ coi thường việc gấp gọn chăn màn, dọn dẹp chỗ ngủ khi thức dậy . \n Hãy để ý mà xem, những người bê tha, bệ rạc , thiếu sức sống họ đều không làm điều này . \n Bạn không muốn giống họ chứ ? \n Khi bạn để chăn màn chỗ ngủ bừa bộn , theo tâm linh , ma quỷ sẽ nhảy múa trên đó , theo khoa học thì nó phát ra một nguốn năng lượng xấu ảnh hưởng đến bạn . \n Chỉ cần nhìn vào nó thôi bạn cũng sẽ cảm thấy mệt mỏi bức bối . \n Vì thế hãy gấp gọn chăn màn,dọn dẹp chỗ ngủ của bạn khi thức dậy."
-},
-{
-"type":"1",
-"name":"CƠ THỂ GỌN GÀNG VÀ SẠCH SẼ",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Đầu tóc lúc nào cũng phải gọn gàng sạch sẽ , cắt móng tay móng chân , quần áo sạch sẽ . \n Một ngày đánh răng ít nhất 2 lần sau khi ăn . \n Tắm rửa khi bạn đi làm ngoài về . \n Rửa tay khi đi vệ sinh , không vứt rác bừa bãi ... \n Hãy rèn luyện bản thân liên tục như vậy ."
 },
 {
 "type":"1",
