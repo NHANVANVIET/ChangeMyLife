@@ -21,7 +21,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/nhat-ky-luu-giu-ngay-yeu/id763202585?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconnhatky.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky1.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky2.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky3.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky4.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky5.jpg?raw=true",
-"linkdes":"Các nền tảng mạng xã hội thậm chí còn nguy hiểm hơn cả việc đọc báo , tin tức online .\n Bởi vì sự lôi cuốn của nó với bạn còn cao hơn gấp nhiều lần .\n Khi bạn bật nó lên , một loạt các thông báo , tin nhắn chat , tin tức hot sẽ cuốn lấy bạn và hút mọi năng lượng, trí tuệ, sự tập trung của bạn .\n Các tin Hot trên các mạng xã hội này chiếm đa số là thông tin độc hại , vô bổ tiêm nhiễm vào đầu óc bạn . \n Khiến bạn có những hành động điên rồ bắt chước theo . \n Không thể phủ nhận là các mạng xã hội này có nhiều thông tin có ích, những thông tin tuyệt vời được chia sẻ , mở mang trí tuệ , thay đổi cuộc sống của chúng ta . Chính vì vậy bạn phải lựa chọn những gì có ích , những kênh tuyệt vời để xem .\n Thời gian trong ngày , năng lượng trong ngày có hạn , đừng lãng phí vào những điều vô bổ . \n Và tuyệt đối không xem vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
+"linkdes":"Các nền tảng mạng xã hội thậm chí còn nguy hiểm hơn cả việc đọc báo , tin tức online .\n Bởi vì sự lôi cuốn của nó với bạn còn cao hơn gấp nhiều lần .\n Khi bạn bật nó lên , một loạt các thông báo , tin nhắn chat , tin tức hot sẽ cuốn lấy bạn và hút mọi năng lượng, trí tuệ, sự tập trung của bạn . \n Bạn sẽ không thể thoát ra khỏi nó để làm việc được . \n Các tin Hot trên các mạng xã hội này chiếm đa số là thông tin độc hại , vô bổ tiêm nhiễm vào đầu óc bạn . \n Khiến bạn có những hành động điên rồ bắt chước theo . \n Không thể phủ nhận là các mạng xã hội này có nhiều thông tin có ích, những thông tin tuyệt vời được chia sẻ , mở mang trí tuệ , thay đổi cuộc sống của chúng ta .\n Chính vì vậy bạn phải lựa chọn những gì có ích , những kênh tuyệt vời để xem .\n Thời gian trong ngày , năng lượng trong ngày có hạn , đừng lãng phí vào những điều vô bổ . \n Và tuyệt đối không xem vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
 },
 {
 "type":"0",
@@ -30,14 +30,6 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconsoikq.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq5.png?raw=true",
 "linkdes":"Không check mail khi sáng sớm thức dậy . \n Những mail này cũng có thể ảnh hưởng đến đầu óc , năng lượng , chiếm lấy thời gian và sự tập trung của bạn . \n Hãy đọc và trả lời mail giữa ngày . \n Và tuyệt đối không xem vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
-},
-{
-"type":"0",
-"name":"KHÔNG THỦ DÂM",
-"linkappstore":"https://itunes.apple.com/vn/app/create-album-music-sleep-timer/id1130635299?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icontaoalbum.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum4.png?raw=true",
-"linkdes":"Khi bạn áp lực stress , bạn nghĩ thủ dâm có lợi , giải tỏa căng thẳng, nhưng không , khi bạn thủ dâm xong , nó như một nỗi ám ảnh với bạn . \n Bạn sẽ cảm thấy tội lỗi , mệt mỏi và đặc biệt là thất vọng về chính mình . \n Khi bạn thủ dâm bạn sẽ tiêu hao 1 nguồn năng lượng rất lớn cả về thể chất lẫn tinh thần .\n Vì thế tuyệt đối không thủ dâm vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
 },
 {
 "type":"0",
@@ -53,7 +45,15 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Buổi sáng sớm thức dậy bạn không nên bật tivi lên xem , các chương trình tivi, phim truyện , giải trí ... sẽ cuốn hút bạn . \n Và bạn sẽ tốn tất cả thời gian vào nó . Cuối cùng bạn sẽ cảm thấy mỏi mệt và chán chường . \n Năng lượng của bạn đã tiêu hao vào các chương trình đó . \n Sáng sớm thức dậy hãy để cho đầu óc thảnh thơi .\n Tuyệt đối không xem tivi vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
+"linkdes":"Buổi sáng sớm thức dậy bạn không được bật tivi lên xem , các chương trình tivi, phim truyện , giải trí ... sẽ cuốn hút bạn . \n Và bạn sẽ tốn tất cả thời gian vào nó . \n Bạn không thể rời ra và cuối cùng bạn sẽ nằm dài mỏi mệt và chán chường . \n Năng lượng của bạn đã tiêu hao vào các chương trình đó . \n Sáng sớm thức dậy hãy để cho đầu óc thảnh thơi .\n Tuyệt đối không xem tivi vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
+},
+{
+"type":"0",
+"name":"KHÔNG THỦ DÂM",
+"linkappstore":"https://itunes.apple.com/vn/app/create-album-music-sleep-timer/id1130635299?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icontaoalbum.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum4.png?raw=true",
+"linkdes":"Khi bạn áp lực stress , bạn nghĩ thủ dâm có lợi , giải tỏa căng thẳng, nhưng không , khi bạn thủ dâm xong , nó như một nỗi ám ảnh với bạn . \n Bạn sẽ cảm thấy tội lỗi , mệt mỏi và đặc biệt là thất vọng về chính mình . \n Khi bạn thủ dâm bạn sẽ tiêu hao 1 nguồn năng lượng rất lớn cả về thể chất lẫn tinh thần . \n Thủ dâm vô độ còn dẫn bạn đến một loạt các bệnh : tâm lý yếu đuối , lo sợ bị bắt gặp , đau đầu , khó ngủ , viêm xoang, dạ dày , trầm cảm , lãnh cảm , tim mạch , suy nhược cơ thể ... \n Vì thế hãy nghe tôi, tuyệt đối không thủ dâm đặc biệt vào buổi sáng nếu bạn muốn đời mình khá lên !"
 },
 {
 "type":"1",
