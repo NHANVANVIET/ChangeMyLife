@@ -57,6 +57,14 @@
 },
 {
 "type":"0",
+"name":"KHÔNG LÀM TRÁI PHÁP LUẬT - LƯƠNG TÂM",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Không làm trái pháp luật nơi bạn sống , không làm những điều trái với lương tâm , không hại người khác . \n Nếu không bạn sẽ cảm thấy mình luôn sống trong sợ hãi có một năng lượng xấu bao quanh bạn và làm bạn lo lắng ám ảnh . \n Khi bạn làm những điều này , dù trót lọt không ai biết nhưng trong thâm tâm bạn thì không thể tránh khỏi .\n Nó có thể dày vò bạn cả đời . \n Vì vậy hãy làm việc tuân thủ theo pháp luật và lương tâm của mình để tâm hồn thoải mái tự tin không sợ hãi ."
+},
+{
+"type":"0",
 "name":"KHÔNG THỦ DÂM",
 "linkappstore":"https://itunes.apple.com/vn/app/create-album-music-sleep-timer/id1130635299?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icontaoalbum.png?raw=true",
@@ -281,6 +289,38 @@
 },
 {
 "type":"1",
+"name":"BÌNH TĨNH , CHẮC CHẮN , ĐIỀM TĨNH",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Khi mọi việc xảy đến với bạn, hãy bình tĩnh , sáng suốt không nhanh ẩu . \n Khi tiếp nhận một thông tin , hãy có thói quen nhẩm lại trong đầu rồi xem xét thông tin .\n Hãy trở thành một con người điềm tĩnh , không vội vàng tiếp nhận mọi thứ .\n Hãy xem xét và tìm hiểu bản chất sự việc , nếu bạn luyện được thói quen này , nó sẽ giúp bạn tránh được đa số sai lầm . \n Bạn sẽ trở thành một con người khác , điềm đạm, bản lĩnh , không dễ bị dắt mũi , bị lừa hay lợi dụng ."
+},
+{
+"type":"1",
+"name":"NHÌN NHẬN - HỌC HỎI",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Hãy nhìn nhận và học hỏi mọi người xung quanh , đồng nghiệp , sếp ... \n Mỗi người quanh bạn , hãy nhìn ra điểm tốt của họ và học hỏi . \n Hãy chọn những người thầy giỏi và học hỏi họ để hoàn thiện bản thân ."
+},
+{
+"type":"1",
+"name":"XIN LỖI - THA THỨ - BAO DUNG",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Hãy học cách nói tôi xin lỗi , tôi sai rồi một cách thật lòng không lý do bao biện . \n Hãy học cách tha thứ cho lỗi lầm của người khác . \n Tha thứ cho người khác cũng chính là tha thứ cho bản thân . \n Hãy bao dung với mọi người , đó cũng chính là bao dung với bản thân  . \n Bạn sẽ có một tâm hồn nhẹ nhàng thanh thản không tức giận nặng nề , luôn mỉm cười . \n Điều này tăng tối đa năng lượng tốt của bạn và tiêu hao hết năng lượng xấu bám vào bạn , hãy cố gắng thực hiện trong tâm trí ."
+},
+{
+"type":"1",
+"name":"LIỆT KÊ RỦI RO",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Trước khi bạn quyết định một vấn đề , hãy liệt kê ít nhất 3 rủi ro gặp phải khi bắt tay làm . \n Có thể lên google tìm kiếm những rủi ro của vấn đề và xem xét các khía cạnh để giải quyết rủi ro đó .\n Nếu rủi ro quá lớn và bạn không có cách giải quyết thì hãy quyết định dừng . \n Hãy xem xét mọi góc độ , chọn con đường đúng đắn , rút kinh nghiệm bài học từ những người đi trước ."
+},
+{
+"type":"1",
 "name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
@@ -288,7 +328,7 @@
 "linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Bạn sẽ thấy cơ thể mình khỏe mạnh , tinh thần mình mạnh mẽ và tràn đầy năng lượng ."
 },
 {
-"type":"3",
+"type":"1",
 "name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
@@ -296,7 +336,7 @@
 "linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Bạn sẽ thấy cơ thể mình khỏe mạnh , tinh thần mình mạnh mẽ và tràn đầy năng lượng ."
 },
 {
-"type":"3",
+"type":"2",
 "name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
@@ -304,7 +344,7 @@
 "linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Bạn sẽ thấy cơ thể mình khỏe mạnh , tinh thần mình mạnh mẽ và tràn đầy năng lượng ."
 },
 {
-"type":"3",
+"type":"2",
 "name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
@@ -312,7 +352,7 @@
 "linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Bạn sẽ thấy cơ thể mình khỏe mạnh , tinh thần mình mạnh mẽ và tràn đầy năng lượng ."
 },
 {
-"type":"4",
+"type":"2",
 "name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
@@ -320,7 +360,7 @@
 "linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Bạn sẽ thấy cơ thể mình khỏe mạnh , tinh thần mình mạnh mẽ và tràn đầy năng lượng ."
 },
 {
-"type":"4",
+"type":"2",
 "name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
@@ -328,7 +368,15 @@
 "linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Bạn sẽ thấy cơ thể mình khỏe mạnh , tinh thần mình mạnh mẽ và tràn đầy năng lượng ."
 },
 {
-"type":"4",
+"type":"2",
+"name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Bạn sẽ thấy cơ thể mình khỏe mạnh , tinh thần mình mạnh mẽ và tràn đầy năng lượng ."
+},
+{
+"type":"2",
 "name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
