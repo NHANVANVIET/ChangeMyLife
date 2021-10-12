@@ -309,7 +309,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy học cách nói tôi xin lỗi , tôi sai rồi một cách thật lòng không lý do bao biện . \n Hãy học cách tha thứ cho lỗi lầm của người khác . \n Tha thứ cho người khác cũng chính là tha thứ cho bản thân . \n Hãy bao dung với mọi người , đó cũng chính là bao dung với bản thân  . \n Bạn sẽ có một tâm hồn nhẹ nhàng thanh thản không tức giận nặng nề , luôn mỉm cười . \n Điều này tăng tối đa năng lượng tốt của bạn và tiêu hao hết năng lượng xấu bám vào bạn , hãy cố gắng thực hiện trong tâm trí ."
+"linkdes":"Hãy học cách nói tôi xin lỗi , tôi sai rồi một cách thật lòng không lý do bao biện . \n Hãy học cách tha thứ cho lỗi lầm của người khác , không thù hận . \n Tha thứ cho người khác cũng chính là tha thứ cho bản thân . \n Hãy bao dung với mọi người , đó cũng chính là bao dung với bản thân  . \n Bạn sẽ có một tâm hồn nhẹ nhàng thanh thản không tức giận nặng nề , luôn mỉm cười . \n Điều này tăng tối đa năng lượng tốt của bạn và tiêu hao hết năng lượng xấu bám vào bạn , hãy cố gắng thực hiện trong tâm trí ."
 },
 {
 "type":"1",
