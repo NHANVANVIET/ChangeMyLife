@@ -49,6 +49,14 @@
 },
 {
 "type":"0",
+"name":"KHÔNG PHÀN NÀN",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Khi mọi khó khăn đến với bạn , không phàn nàn về nó . \n Đừng bao giờ phàn nàn vì công việc , phàn nàn về mọi người hay bất cứ thứ gì . \n Hãy chấp nhận khó khăn gian khổ thất bại và rút ra kinh nghiệm từ đó . \n Hãy coi mỗi khó khăn là một món quà đối với bạn , bạn hãy tiếp nhận nó để hoàn thiện chính mình . \n Mọi thử thách là để bạn vuợt qua , không gì có thể đánh bại bạn . \n Khi bạn bị ngã , hãy đứng dậy và tiếp tục , không có thời gian để phàn nàn . \n Hãy đối mặt và tìm cách vượt qua khó khăn chứ không phàn nàn hay thoái thác ."
+},
+{
+"type":"0",
 "name":"KHÔNG THỦ DÂM",
 "linkappstore":"https://itunes.apple.com/vn/app/create-album-music-sleep-timer/id1130635299?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icontaoalbum.png?raw=true",
@@ -57,11 +65,11 @@
 },
 {
 "type":"1",
-"name":"CƠ THỂ GỌN GÀNG VÀ SẠCH SẼ",
+"name":"CƠ THỂ GỌN GÀNG VÀ SẠCH SẼ THƠM THO",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Đầu tóc lúc nào cũng phải gọn gàng sạch sẽ , cắt móng tay móng chân , quần áo sạch sẽ . \n Một ngày đánh răng ít nhất 2 lần sau khi ăn . \n Tắm rửa khi bạn đi làm ngoài về . \n Rửa tay khi đi vệ sinh , không vứt rác bừa bãi ... \n Đầu tiên hãy rèn luyện bản thân liên tục như vậy ."
+"linkdes":"Đầu tóc cơ thể lúc nào cũng phải gọn gàng, sạch sẽ thơm tho , cắt móng tay móng chân , quần áo sạch sẽ . \n Một ngày đánh răng ít nhất 2 lần sau khi ăn . \n Tắm rửa khi bạn đi làm ngoài về . \n Rửa tay khi đi vệ sinh , không vứt rác bừa bãi ... \n Đầu tiên hãy rèn luyện bản thân liên tục như vậy con người bạn sẽ tự tin và tỏa ra một nguồn năng lượng tích cực ."
 },
 {
 "type":"1",
@@ -149,7 +157,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn chỉ cần tập bài này trong nhà 5 phút , bất cứ khi nào cần . \n Nó sẽ giúp cơ thể bạn khỏe mạnh dẻo dai tràn đầy sức mạnh như một võ sĩ người hướng dẫn bài tập này .\n Nếu thấy khát, hãy uống nước sau mỗi lần tập . \n Link : https://www.youtube.com/watch?v=q7n1gmPvkUU"
+"linkdes":"Bạn hãy tập bài này ngay bây giờ và bất cứ khi nào giải lao . \n Bạn chỉ cần tập bài này trong nhà 5 phút . \n Nó sẽ giúp cơ thể bạn khỏe mạnh dẻo dai tràn đầy sức mạnh như một võ sĩ người hướng dẫn bài tập này .\n Nếu thấy khát, hãy uống nước sau mỗi lần tập . \n Link : https://www.youtube.com/watch?v=q7n1gmPvkUU"
 },
 {
 "type":"1",
@@ -157,7 +165,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn có thể tập bài này bất cứ khi nào cần . \n Nó sẽ giúp đôi tay bạn khỏe mạnh dẻo dai tràn đầy sức mạnh như một võ sĩ .\n Bài tập rất đơn giản nhưng hiệu quả cực cao , bạn có thể cảm nhận ngay sau khi tập lần đầu . \n Bước 1 đưa 2 tay ra trước , lòng bàn tay hướng về phía trước . \n Bước 2 dùng lực nắm bàn tay lại rồi mở lại tay ra . \n Lặp lại ít nhất 100 lần , rồi tăng dần . \n Luyện liên tục hàng ngày như vậy, bạn càng luyện nhiều thì càng có đôi tay mạnh mẽ . \n Rất đơn giản bạn hãy làm ngay và cảm nhận ."
+"linkdes":"Bạn hãy tập bài này ngay bây giờ và bất cứ khi nào giải lao . \n Nó sẽ giúp đôi tay bạn khỏe mạnh dẻo dai tràn đầy sức mạnh như một võ sĩ .\n Bài tập rất đơn giản nhưng hiệu quả cực cao , bạn có thể cảm nhận ngay sau khi tập lần đầu . \n Bước 1 đưa 2 tay ra trước , lòng bàn tay hướng về phía trước . \n Bước 2 dùng lực nắm bàn tay lại rồi mở lại tay ra . \n Lặp lại ít nhất 100 lần , rồi tăng dần . \n Luyện liên tục hàng ngày như vậy, bạn càng luyện nhiều thì càng có đôi tay mạnh mẽ . \n Rất đơn giản bạn hãy làm ngay và cảm nhận ."
 },
 {
 "type":"1",
@@ -197,7 +205,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy làm việc bằng tình yêu , không phải trách nhiệm . \n Khi bạn đang có một công việc để làm , đừng bao giờ phàn nàn vì nó . \n Hãy trân trọng công việc mình đang làm , nó đang nuôi sống bạn hoặc đã từng nuôi sống bạn . \n Hãy nhớ những ngày bạn thất nghiệp , công việc quan trọng với bạn thế nào ? \n Nếu bạn không được làm việc mình thích thì bạn phải thích việc mình làm . \n Để có được thành công bạn hãy làm việc hết mình không phàn nàn , quý trọng công việc mình đang làm ."
+"linkdes":"Hãy làm việc bằng tình yêu , không phải trách nhiệm . \n Khi bạn đang có một công việc để làm hãy trân trọng công việc đó , nó đang nuôi sống bạn hoặc đã từng nuôi sống bạn . \n Hãy nhớ những ngày bạn thất nghiệp , công việc quan trọng với bạn thế nào ? \n Nếu bạn không được làm việc mình thích thì bạn phải thích việc mình làm . \n Để có được thành công bạn hãy làm việc hết mình , tập trung năng lượng vào công việc . \n Hãy tìm mọi cách để hoàn thành nó không ngại khó ngại khổ , hãy quý trọng công việc mình đang làm ."
 },
 {
 "type":"1",
@@ -229,7 +237,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy tiếp xúc trực tiếp với trái đất để tiếp nhận nguồn năng lượng từ đất mẹ . \n Ngày nay chúng ta sống trong môi trường bê tông hóa , rồi đi giày dép cả ngày , đã lâu lắm rồi chúng ta không tiếp nhận nguồn năng lượng từ đất mẹ . \n Hãy để ý những người nông dân làm việc trên đồng ruộng, tiếp xúc với đất , họ có sức khỏe và năng lượng yêu đời chứ không uể oải cả ngày như chúng ta . \n Hãy dành một chút thời gian đi chân trần , nằm trên bãi cỏ , cảm nhận năng lượng từ đất mẹ , nó giống như bạn đang được sạc điện từ đất mẹ vậy .\n Đất mẹ là một nguồn điện , bạn tiếp xúc với đất như đang cắm sạc vào nguồn , bạn sẽ thấy cơ thể mình tràn đầy năng lượng !"
+"linkdes":"Hãy tiếp xúc trực tiếp với trái đất để tiếp nhận nguồn năng lượng từ đất mẹ . \n Ngày nay chúng ta sống trong môi trường bê tông hóa , rồi đi giày dép cả ngày , đã lâu lắm rồi chúng ta không tiếp nhận nguồn năng lượng từ đất mẹ . \n Hãy để ý những người nông dân làm việc trên đồng ruộng, tiếp xúc với đất , họ có sức khỏe và năng lượng yêu đời chứ không uể oải cả ngày như chúng ta . \n Hãy dành một chút thời gian đi chân trần , nằm trên bãi cỏ , cảm nhận năng lượng từ đất mẹ .\n Khi chân bạn tiếp xúc với đất bạn sẽ thấy cơ thể mình thoải mái dễ chịu điều hòa và tràn đầy năng lượng !"
 },
 {
 "type":"1",
@@ -270,5 +278,13 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
 "linkdes":"Giờ tốt nhất để bạn đi ngủ sẽ là khoảng từ 21h đến 22h hàng ngày . \n Sau thời điểm 22h là thời diểm mà các cơ quan trong cơ thể của bạn giảm sự hoạt động và thiên về trạng thái nghỉ ngơi.\n Đó cũng là  thời điểm mà bạn cần có một giấc ngủ để hồi phục sức khỏe cho các cơ quan.\n Hãy lên giường tĩnh tâm thư giãn và chìm vào giấc ngủ . \n Khi bạn có một giấc ngủ ngon , bạn sẽ có năng lượng tràn đầy khi thức dậy ."
+},
+{
+"type":"1",
+"name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của bản thân . \n Bạn sẽ thấy cơ thể mình khỏe mạnh , tinh thần mình mạnh mẽ và tràn đầy năng lượng ."
 }
 ]}
