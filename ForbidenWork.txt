@@ -329,7 +329,7 @@
 },
 {
 "type":"2",
-"name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
+"name":"Web 5 Ngày - Youtube",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
@@ -337,7 +337,7 @@
 },
 {
 "type":"2",
-"name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
+"name":"Sadhguru tiếng Việt - Youtube",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
@@ -345,7 +345,39 @@
 },
 {
 "type":"2",
-"name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
+"name":"Văn Tới Calisthenics-Style",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Link : https://www.youtube.com/channel/UCDtooClmUs075YdSjoqKtXg/featured ."
+},
+{
+"type":"2",
+"name":"Nguyễn Trần Duy Nhất - Youtube",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Link : https://www.youtube.com/channel/UCTKemsaocMbuTcwzr6MpG6w/featured ."
+},
+{
+"type":"2",
+"name":"Kênh Võ Thuật - Youtube",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Link : https://www.youtube.com/channel/UCUK6xDBEsBKIz9xKswGmxnA ."
+},
+{
+"type":"2",
+"name":"Chris Heria - Youtube",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Link : https://www.youtube.com/c/CHRISHERIA/featured ."
+},
+{
+"type":"2",
+"name":"Thảo Kiara - Youtube",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
@@ -353,26 +385,18 @@
 },
 {
 "type":"2",
-"name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
+"name":"TED Talk Website",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Bạn sẽ thấy cơ thể mình khỏe mạnh , tinh thần mình mạnh mẽ và tràn đầy năng lượng ."
+"linkdes":"Link : https://www.ted.com/talks?language=vi "
 },
 {
 "type":"2",
-"name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
+"name":"Tiếng Anh Giao tiếp cùng TOPICA Native",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Bạn sẽ thấy cơ thể mình khỏe mạnh , tinh thần mình mạnh mẽ và tràn đầy năng lượng ."
-},
-{
-"type":"2",
-"name":"HÃY LẬP TỨC LÀM THEO CÁC ĐIỀU TRÊN",
-"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
-"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
-"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Bạn sẽ thấy cơ thể mình khỏe mạnh , tinh thần mình mạnh mẽ và tràn đầy năng lượng ."
+"linkdes":"Trên đây là tất cả những việc mà bạn có thể làm ngay . \n Hãy lập tức làm theo để thay đổi bản thân bạn .\n Hãy tiến hóa bạn lên một cấp độ mới .\n Hãy thực hiện tất cả như một thói quen hàng ngày . \n Một ngày khi bạn không biết phải làm gì , hãy làm theo tất cả các việc trên từ sáng đến tối  . \n Bạn sẽ thấy bất ngờ về sự thay đổi của mình . \n Link : https://www.youtube.com/user/TOPMITO ."
 }
 ]}
