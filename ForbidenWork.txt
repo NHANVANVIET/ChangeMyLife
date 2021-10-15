@@ -197,7 +197,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy thử làm một điều mới mẻ như đọc sách , nghe nhạc , vẽ tranh , thiền , nấu ăn , trồng cây , trang trí phòng , thả diều , đá bóng , bắt chuyện với một người lạ ... \n Điều này sẽ giúp bạn khám phá thêm về mình, về mọi thứ xung quanh , những thứ mà khi thường bạn không hề nghĩ đến . \n Nó mang đến một luồng gió mới , đôi khi là một cơ hội mới cho cuộc đời buồn tẻ của bạn . \n Đừng kìm hãm bản thân bạn với tri thức, với ước mơ, với những điều thú vị trong cuộc sống ."
+"linkdes":"Hãy thử làm một điều mới mẻ như vẽ tranh , thiền , nấu ăn , trồng cây , trang trí phòng , thả diều , đá bóng , bắt chuyện với một người lạ ... \n Điều này sẽ giúp bạn khám phá thêm về mình, về mọi thứ xung quanh , những thứ mà khi thường bạn không hề nghĩ đến . \n Nó mang đến một luồng gió mới , đôi khi là một cơ hội mới cho cuộc đời buồn tẻ của bạn . \n Đừng kìm hãm bản thân bạn với tri thức, với ước mơ, với những điều thú vị trong cuộc sống ."
 },
 {
 "type":"1",
@@ -230,6 +230,14 @@
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
 "linkdes":"Hãy dành 30 phút mỗi ngày để đọc những cuốn sách bổ ích . \n Nó sẽ giúp bạn có kiến thức , sự tự tin và cảm hứng trong các lĩnh vực cuộc sống . \n Hãy chọn những chủ đề phù hợp và có ích cho bạn . \n Có thể đọc sách về giáo dục , kinh doanh , phát triển bản thân , tĩnh tâm , tỉnh thức , điều khiển cảm xúc ... \n Hãy nhìn xem, những người thành công thì họ hay đọc sách , còn lại thì không . \n Hãy cầm cuốn sách và đọc như đọc một niềm vui giải trí nhé bạn . \n Đến một lúc bạn sẽ cảm thấy niềm đam mê , yêu thích khi đọc được một cuốn sách hay , tiếp thu được một kiến thức mà mình chưa biết đến ."
+},
+{
+"type":"1",
+"name":"NGHE NHẠC",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Khi bạn thiếu năng lượng , ủ rũ , mệt mỏi , âm nhạc sẽ vực dậy con người bạn . \n Có những bài hát có ý nghĩa và giai điệu tuyệt vời nó như một nguồn năng lượng tiếp sức cho bạn vậy . \n Một số bài hát tôi thường nghe : Hello VietNam , I have a dream , Trouble is a Friend , Reality , In The End , Congratulations , That's life ... \n Hãy nghe và cảm nhận những bài hát tuyệt vời để có động lực chiến đấu khi mỏi mệt bạn nhé ."
 },
 {
 "type":"1",
