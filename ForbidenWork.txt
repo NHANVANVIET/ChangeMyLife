@@ -85,7 +85,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy dậy sớm lúc 5h sáng .\n Dậy sớm vào khoảng 5h sáng mang đến rất nhiều lợi ích cho sức khỏe.\n Bạn sẽ hạnh phúc hơn, vui vẻ hơn và làm việc hiệu quả hơn. \n Dậy sớm giúp bạn có thêm thời gian trong ngày để làm việc có ích cho cơ thể . \n Giúp bạn có thời gian tập thể dục , vệ sinh cá nhân , ăn sáng ... mà không lo sợ thời gian đi làm . \n Ngoài ra nó còn giúp bạn hít thở không khí trong lành , ngắm ánh bình minh , giảm stress , cải thiện giấc ngủ buổi tối . \n Tất cả đều là những điều tuyệt vời mà bạn sẽ bỏ lỡ nếu còn ngủ nướng . \n Hãy dậy sớm và cảm nhận nguồn năng lượng tuyệt vời này !"
+"linkdes":"Hãy dậy sớm lúc 5h sáng .\n Dậy sớm vào khoảng 5h sáng mang đến rất nhiều lợi ích cho sức khỏe.\n Bạn sẽ hạnh phúc hơn, vui vẻ hơn và làm việc hiệu quả hơn. \n Dậy sớm giúp bạn có thêm thời gian trong ngày để làm việc có ích cho cơ thể . \n Giúp bạn có thời gian tập thể dục , vệ sinh cá nhân , ăn sáng ... mà không lo sợ thời gian đi làm . \n Ngoài ra nó còn giúp bạn hít thở không khí trong lành , đắm chìm cơ thể trong ánh bình minh hấp thụ năng lượng mặt trời , giảm stress , cải thiện giấc ngủ buổi tối . \n Tất cả đều là những điều tuyệt vời mà bạn sẽ bỏ lỡ nếu còn ngủ nướng . \n Hãy dậy sớm và cảm nhận nguồn năng lượng tuyệt vời này !"
 },
 {
 "type":"1",
@@ -165,7 +165,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn hãy tập bài này ngay bây giờ và bất cứ khi nào giải lao . \n Bạn chỉ cần tập bài này trong nhà 5 phút . \n Nó sẽ giúp cơ thể bạn khỏe mạnh dẻo dai tràn đầy sức mạnh như một võ sĩ người hướng dẫn bài tập này .\n Nếu thấy khát, hãy uống nước sau mỗi lần tập . \n Link : https://www.youtube.com/watch?v=q7n1gmPvkUU"
+"linkdes":"Bạn hãy tập bài này ngay bây giờ và bất cứ khi nào giải lao . \n Bạn chỉ cần tập bài này trong nhà 5 phút ,có thể vừa nghe nhạc vừa tập . \n Nó sẽ giúp cơ thể bạn khỏe mạnh dẻo dai tràn đầy sức mạnh như một võ sĩ người hướng dẫn bài tập này .\n Nếu thấy khát, hãy uống nước sau mỗi lần tập . \n Link : https://www.youtube.com/watch?v=q7n1gmPvkUU"
 },
 {
 "type":"1",
