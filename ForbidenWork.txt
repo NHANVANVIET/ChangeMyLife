@@ -53,7 +53,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"TUYỆT ĐỐI KHÔNG PHÀN NÀN KÊU CA KỂ KHỔ .\n Khi mọi khó khăn đến với bạn , không phàn nàn về nó . \n Đừng bao giờ phàn nàn vì công việc , phàn nàn về mọi người hay bất cứ thứ gì . \n Hãy chấp nhận khó khăn gian khổ thất bại và rút ra kinh nghiệm từ đó . \n Hãy coi mỗi khó khăn là một món quà đối với bạn , bạn hãy tiếp nhận nó để hoàn thiện chính mình . \n Mọi thử thách là để bạn vuợt qua , không gì có thể đánh bại bạn . \n Khi bạn bị ngã , hãy đứng dậy và tiếp tục , không có thời gian để phàn nàn . \n Hãy đối mặt và tìm cách vượt qua khó khăn chứ không phàn nàn hay thoái thác ."
+"linkdes":"TUYỆT ĐỐI KHÔNG PHÀN NÀN KÊU CA KỂ KHỔ . \n Bạn nên thích nghi với nó và học cách vươn lên, tồn tại một cách mạnh mẽ, kiên cường hơn nữa. \n Khi mọi khó khăn đến với bạn , không phàn nàn về nó . \n Đừng bao giờ phàn nàn vì công việc , phàn nàn về mọi người hay bất cứ thứ gì . \n Hãy chấp nhận khó khăn gian khổ thất bại và rút ra kinh nghiệm từ đó . \n Hãy coi mỗi khó khăn là một món quà đối với bạn , bạn hãy tiếp nhận nó để hoàn thiện chính mình . \n Mọi thử thách là để bạn vuợt qua , không gì có thể đánh bại bạn . \n Khi bạn bị ngã , hãy đứng dậy và tiếp tục , không có thời gian để phàn nàn . \n Hãy đối mặt và tìm cách vượt qua khó khăn chứ không phàn nàn hay thoái thác ."
 },
 {
 "type":"0",
@@ -101,7 +101,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Buổi sáng sớm khi bạn thức dậy , dọn dẹp chỗ ngủ xong , hãy ngồi tĩnh tâm  một lúc . \n Điều này giúp cơ thể bạn bắt đầu chuyển đổi trạng thái từ ngủ sang thức . \n Giúp trí não của bạn sáng suốt và bắt đầu hoạt động tốt . \n Hãy ngồi tĩnh tâm thư giãn thoải mái cảm nhận cuộc sống và mỉm cười. \n Thật hạnh phúc khi bạn còn sống !"
+"linkdes":"Buổi sáng sớm khi bạn thức dậy , dọn dẹp chỗ ngủ xong , hãy ngồi tĩnh tâm  một lúc . \n Điều này giúp cơ thể bạn bắt đầu chuyển đổi trạng thái từ ngủ sang thức . \n Giúp trí não của bạn sáng suốt và bắt đầu hoạt động tốt . \n Hãy ngồi tĩnh tâm thư giãn thoải mái cảm nhận cuộc sống và mỉm cười. \n Hãy nghĩ rằng hôm nay là một ngày tuyệt vời. \n Thật hạnh phúc khi bạn còn sống !"
 },
 {
 "type":"1",
@@ -193,6 +193,14 @@
 },
 {
 "type":"1",
+"name":"THỬ LÀM MỘT VIỆC MỚI MẺ",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Hãy thử làm một điều mới mẻ như nấu ăn , trồng cây , trang trí phòng , thả diều , đá bóng , bắt chuyện với một người lạ ... \n Điều này sẽ giúp bạn khám phá thêm về mình, về mọi thứ xung quanh , những thứ mà khi thường bạn không hề nghĩ đến . \n Nó mang đến một luồng gió mới , đôi khi là một cơ hội mới cho cuộc đời buồn tẻ của bạn . \n Đừng kìm hãm bản thân bạn với tri thức, với ước mơ, với những điều thú vị trong cuộc sống ."
+},
+{
+"type":"1",
 "name":"LÊN KẾ HOẠCH VIỆC CẦN LÀM",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
@@ -261,7 +269,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy giúp đỡ mọi người mà không cần thậm chí một lời cảm ơn . \n Khi bạn làm được việc tốt giúp người khác , tự nhiên trong bạn sản sinh ra một năng lượng tích cực . \n Bạn phải giúp với 1 tâm thế không cần người ta cảm ơn, không cần gì cả, chỉ đơn giản là giúp người mà thôi ! \n Bạn càng làm nhiều việc có ích giúp mọi người thì càng có nhiều năng lượng, càng cảm thấy yêu đời và mạnh mẽ ."
+"linkdes":"Đôi khi việc mang lại hạnh phúc cho người khác sẽ khiến bạn hạnh phúc gấp ngàn lần và cảm thấy bản thân mình là một sự tồn tại có ý nghĩa. \n Hãy giúp đỡ mọi người mà không cần thậm chí một lời cảm ơn . \n Khi bạn làm được việc tốt giúp người khác , tự nhiên trong bạn sản sinh ra một năng lượng tích cực . \n Bạn phải giúp với 1 tâm thế không cần người ta cảm ơn, không cần gì cả, chỉ đơn giản là giúp người mà thôi ! \n Bạn càng làm nhiều việc có ích giúp mọi người thì càng có nhiều năng lượng, càng cảm thấy yêu đời và mạnh mẽ ."
 },
 {
 "type":"1",
@@ -273,11 +281,11 @@
 },
 {
 "type":"1",
-"name":"NHÌN NHẬN - HỌC HỎI",
+"name":"NHÌN NHẬN - HỌC HỎI - BIẾT ƠN",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy nhìn nhận và học hỏi mọi người xung quanh , đồng nghiệp , sếp ... \n Mỗi người quanh bạn , hãy nhìn ra điểm tốt của họ và học hỏi . \n Hãy chọn những người thầy giỏi và học hỏi họ để hoàn thiện bản thân ."
+"linkdes":"Hãy nhìn nhận và học hỏi mọi người xung quanh , đồng nghiệp , sếp ... \n Mỗi người quanh bạn , hãy nhìn ra điểm tốt của họ và học hỏi . \n Hãy chọn những người thầy giỏi và học hỏi họ để hoàn thiện bản thân . \n Hãy biết ơn những gì mình đang có . \n Chúng ta luôn không ngừng khao khát về những thứ chúng ta không có trong cuộc sống và lãng quên các giá trị về những thứ mình đang có. \n Lòng tham, lòng chiếm hữu của con người là vô đáy, khi bạn có được thứ này thì bạn sẽ mau chóng chạy theo thứ khác.\n Cứ như vậy bạn luôn chạy theo để với lấy hạnh phúc mà đâu biết rằng hạnh phúc ở ngay bên cạnh bạn .\n Đó là người thân, là bè bạn, là công việc hay chỉ đơn giản là mỗi sớm mai còn thức dậy thì đã là điều mà hàng vạn người ao ước."
 },
 {
 "type":"1",
