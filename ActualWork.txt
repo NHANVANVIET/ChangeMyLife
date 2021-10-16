@@ -169,6 +169,14 @@
 },
 {
 "type":"1",
+"name":"JUMP ROPE EXERCISE",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Do this exercise now and whenever you take a break. \n You only need to practice this exercise at home for 5 minutes, you can listen to music and practice at the same time. \n It will help your body stay strong, supple, and full of strength .\n If you feel thirsty, drink water after each workout ."
+},
+{
+"type":"1",
 "name":"HAND EXERCISE",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
