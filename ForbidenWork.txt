@@ -169,6 +169,14 @@
 },
 {
 "type":"1",
+"name":"TẬP NHẢY DÂY",
+"linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
+"linkdes":"Bạn hãy tập bài này ngay bây giờ và bất cứ khi nào giải lao . \n Bạn chỉ cần tập bài này trong nhà 5 phút ,có thể vừa nghe nhạc vừa tập . \n Nó sẽ giúp cơ thể bạn khỏe mạnh dẻo dai tràn đầy sức mạnh . \n Bạn có thể tập nhảy dây mà không cần dây . \n Hãy cảm tưởng như đang có dây trong tay bạn và nhảy dây như thật . \n Nếu thấy khát, hãy uống nước sau mỗi lần tập ."
+},
+{
+"type":"1",
 "name":"BÀI TẬP TAY",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
