@@ -9,123 +9,123 @@
 },
 {
 "type":"0",
-"name":"KHÔNG ĐỌC BÁO, TIN TỨC ONLINE",
+"name":"DO NOT READ NEWS ONLINE",
 "linkappstore":"https://itunes.apple.com/vn/app/day-hoc-tieng-anh-hay-nhat/id804714551?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconhocta.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta11.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta12.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta13.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta14.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/hocta15.png?raw=true",
-"linkdes":"TUYỆT ĐỐI KHÔNG ĐỌC BÁO, TIN TỨC ONLINE vào buổi sáng khi thức dậy .\n Ngày nay thông tin tràn ngập , bạn chỉ cần mở 1 trang báo mạng lên thì thôi xong , nó sẽ cuốn bạn vào vòng xoáy thông tin nhiễu loạn .\n Những tin tức có ích thì ít mà những thông tin vô bổ , có hại thì nhiều vô kể . \n Trộm cắp , giết người , cướp của , hãm hiếp , scandal , ... những thông tin có hại này sẽ đập vào mắt bạn , bắt lấy bạn và hút sạch năng lượng và thời gian trong ngày của bạn .\n Nó như một con muỗi khổng lồ bám lấy bạn và hút máu , tiêm nhiễm chất độc hại vào đầu óc của bạn . \n Nếu bạn không thể bỏ ngay thói quen này, hãy lựa chọn những tờ báo uy tín, lựa chọn tin tức có ích rồi mới đọc , nhưng tuyệt đối không đọc vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
+"linkdes":"ABSOLUTELY NO READ NEWS ONLINE in the morning when you wake up .\n Nowadays, information is flooded, you just need to open 1 page of online newspaper and it will suck you into a vortex of chaotic information.\n There is little useful information, but useless and harmful information is countless. \n Theft , murder , robbery , rape , scandal , ... this harmful information will catch your eye , catch you and drain your energy and time of day .\n It like a giant mosquito clinging to you and sucking blood, injecting toxic substances into your mind. \n If you can't give up this habit right away, choose reputable newspapers, choose useful news and then read, but absolutely do not read in the morning to preserve your energy for the day!"
 },
 {
 "type":"0",
-"name":"KHÔNG MẠNG XÃ HỘI",
+"name":"NO SOCIAL NETWORKS",
 "linkappstore":"https://itunes.apple.com/vn/app/nhat-ky-luu-giu-ngay-yeu/id763202585?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconnhatky.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky1.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky2.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky3.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky4.jpg?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/nhatky5.jpg?raw=true",
-"linkdes":"TUYỆT ĐỐI KHÔNG VÀO CÁC MẠNG XÃ HỘI vào buổi sáng khi thức dậy .\n Các nền tảng mạng xã hội thậm chí còn nguy hiểm hơn cả việc đọc báo , tin tức online .\n Bởi vì sự lôi cuốn của nó với bạn còn cao hơn gấp nhiều lần .\n Khi bạn bật nó lên , một loạt các thông báo , tin nhắn chat , tin tức hot sẽ cuốn lấy bạn và hút mọi năng lượng, trí tuệ, sự tập trung của bạn . \n Bạn sẽ không thể thoát ra khỏi nó để làm việc được . \n Các tin Hot trên các mạng xã hội này chiếm đa số là thông tin độc hại , vô bổ tiêm nhiễm vào đầu óc bạn . \n Khiến bạn có những hành động điên rồ bắt chước theo . \n Không thể phủ nhận là các mạng xã hội này có nhiều thông tin có ích, những thông tin tuyệt vời được chia sẻ , mở mang trí tuệ , thay đổi cuộc sống của chúng ta .\n Chính vì vậy bạn phải lựa chọn những gì có ích , những kênh tuyệt vời để xem .\n Thời gian trong ngày , năng lượng trong ngày có hạn , đừng lãng phí vào những điều vô bổ . \n Và tuyệt đối không xem vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
+"linkdes":"ABSOLUTELY DO NOT JOIN SOCIAL NETWORKS in the morning when you wake up .\n Social networking platforms are even more dangerous than reading newspapers and online news .\n Because of its attraction to you, many times higher .\n When you turn it on , a series of notifications , chat messages , hot news will overwhelm you and suck all your energy , intelligence , concentration . \n You won't be able to get out of it to work. \n The hot news on these social networks is mostly harmful and useless information injected into your mind. \n Makes you act crazy to imitate . \n There is no denying that these social networks have a lot of useful information, great information to be shared, opened up our minds, changed our lives.\n That's why you have to choose what works , great channels to watch .\n Time of day , limited energy in a day , don't waste it on useless things . \n And absolutely do not watch in the morning to preserve your energy for the day !"
 },
 {
 "type":"0",
-"name":"KHÔNG CHECK MAIL",
+"name":"DO NOT CHECK MAIL",
 "linkappstore":"https://itunes.apple.com/vn/app/soi-ket-qua-tinh-so-ra-cap/id1094931943?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Iconsoikq.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/soikq5.png?raw=true",
-"linkdes":"TUYỆT ĐỐI KHÔNG CHECK MAIL vào buổi sáng khi thức dậy .\n Những mail này cũng có thể ảnh hưởng đến đầu óc , năng lượng , chiếm lấy thời gian và sự tập trung của bạn . \n Hãy đọc và trả lời mail giữa ngày . \n Và tuyệt đối không xem vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
+"linkdes":"ABSOLUTELY DO NOT CHECK MAIL in the morning when you wake up .\n These emails can also affect your mind , energy , take up your time and focus . \n Read and reply to midday mail . \n And absolutely do not watch in the morning to preserve your energy for the day!"
 },
 {
 "type":"0",
-"name":"KHÔNG XEM TIVI",
+"name":"DO NOT WATCH TV",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"TUYỆT ĐỐI KHÔNG XEM TIVI vào buổi sáng khi thức dậy .\n Buổi sáng sớm thức dậy bạn không được bật tivi lên xem , các chương trình tivi, phim truyện , giải trí ... sẽ cuốn hút bạn . \n Và bạn sẽ tốn tất cả thời gian vào nó . \n Bạn không thể rời ra và cuối cùng bạn sẽ nằm dài mỏi mệt và chán chường . \n Năng lượng của bạn đã tiêu hao vào các chương trình đó . \n Sáng sớm thức dậy hãy để cho đầu óc thảnh thơi .\n Tuyệt đối không xem tivi vào buổi sáng để bảo toàn năng lượng trong ngày của bạn !"
+"linkdes":"Absolutely do not watch TV in the morning when you wake up.\n When you wake up early in the morning, you mustn't turn on the TV to watch, TV programs, movies, entertainment ... will attract you. \n And you will spend all your time on it . \n You can't get out and you will end up lying tired and bored. \n Your energy has been spent on those programs . \n When you wake up early in the morning, let your mind relax.\n Absolutely do not watch TV in the morning to preserve your energy for the day!"
 },
 {
 "type":"0",
-"name":"KHÔNG CẦM ĐIỆN THOẠI KHI NGỦ",
+"name":"DO NOT KEEP YOUR PHONE WHEN SLEEPING",
 "linkappstore":"https://apps.apple.com/vn/app/memory-tap-tap/id824061925",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icongametrinho.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/gametrinho5.png?raw=true",
-"linkdes":"TUYỆT ĐỐI KHÔNG MANG ĐIỆN THOẠI,IPAD VÀO XEM KHI ĐI NGỦ .\n Khi đến giờ đi ngủ , bạn hãy để điện thoại của mình ngoài phòng ngủ .\n Bạn có thói quen cầm điện thoại xem, chơi trước khi ngủ ? \n Đó là một thói quen xấu . \n Ánh sáng điện thoại , sóng điện thoại , tin tức, game điện thoại sẽ làm bạn lâu chìm vào giấc ngủ hơn. \n Nó phá hủy giấc ngủ của bạn . \n Nửa đêm bạn tỉnh giấc , lại cầm điện thoại và xem, thậm chí chỉ là xem giờ , nó lại phá hủy bạn một lần nữa . \n Bạn sẽ không có được một giấc ngủ ngon . \n Khi không có giấc ngủ ngon, bạn sẽ thức dậy trong trạng thái rã rời mệt mỏi cả ngày không có năng lượng . \n Vậy tuyệt đối không cầm điện thoại khi bạn đi ngủ để có được năng lượng tràn đầy khi thức dậy !"
+"linkdes":"ABSOLUTELY DO NOT BRING PHONE, IPAD IN WHEN GOING TO SLEEP.\n When it's time to go to bed, leave your phone outside the bedroom.\n Do you have a habit of holding your phone to watch and play before going to sleep? \n It's a bad habit. \n Phone light, phone signal, news, phone games will make you fall asleep longer. \n It destroys your sleep. \n You wake up in the middle of the night, pick up your phone again and see, even just checking the time, it destroys you again. \n You won't get a good night's sleep. \n When you don't have a good night's sleep, you will wake up exhausted all day with no energy. \n So absolutely don't hold your phone when you go to sleep to get full energy when you wake up!"
 },
 {
 "type":"0",
-"name":"KHÔNG PHÀN NÀN KÊU CA KỂ KHỔ",
+"name":"NO COMPLAINTS",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"TUYỆT ĐỐI KHÔNG PHÀN NÀN KÊU CA KỂ KHỔ . \n Bạn nên thích nghi với nó và học cách vươn lên, tồn tại một cách mạnh mẽ, kiên cường hơn nữa. \n Khi mọi khó khăn đến với bạn , không phàn nàn về nó . \n Đừng bao giờ phàn nàn vì công việc , phàn nàn về mọi người hay bất cứ thứ gì . \n Hãy chấp nhận khó khăn gian khổ thất bại và rút ra kinh nghiệm từ đó . \n Hãy coi mỗi khó khăn là một món quà đối với bạn , bạn hãy tiếp nhận nó để hoàn thiện chính mình . \n Mọi thử thách là để bạn vuợt qua , không gì có thể đánh bại bạn . \n Khi bạn bị ngã , hãy đứng dậy và tiếp tục , không có thời gian để phàn nàn . \n Hãy đối mặt và tìm cách vượt qua khó khăn chứ không phàn nàn hay thoái thác ."
+"linkdes":"ABSOLUTELY NO COMPLAINTS . \n You should adapt to it and learn to rise, survive stronger, more resilient. \n When every problem comes to you , don't complain about it . \n Never complain about work , complain about people or anything . \n Accept hardships and failures and learn from them. \n Treat each difficulty as a gift to you, accept it to improve yourself. \n Every challenge is for you to overcome , nothing can beat you . \n When you fall , get up and move on , no time to complain . \n Face and find a way to overcome difficulties, not complaining or denying."
 },
 {
 "type":"0",
-"name":"KHÔNG TRÁI PHÁP LUẬT - LƯƠNG TÂM",
+"name":"DON'T BREAK THE LAW - YOUR CONSCIENCE",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"TUYỆT ĐỐI KHÔNG LÀM TRÁI PHÁP LUẬT VÀ LƯƠNG TÂM .\n Không làm trái pháp luật nơi bạn sống , không làm những điều trái với lương tâm , không hại người khác . \n Nếu không bạn sẽ cảm thấy mình luôn sống trong sợ hãi có một năng lượng xấu bao quanh bạn và làm bạn lo lắng ám ảnh . \n Khi bạn làm những điều này , dù trót lọt không ai biết nhưng trong thâm tâm bạn thì không thể tránh khỏi .\n Nó có thể dày vò bạn cả đời . \n Vì vậy hãy làm việc tuân thủ theo pháp luật và lương tâm của mình để tâm hồn thoải mái tự tin không sợ hãi ."
+"linkdes":"DON'T BREAK THE LAW - YOUR CONSCIENCE .\n Don't break the law where you live, don't do things against your conscience, don't harm others. \n Otherwise you will feel that you are always living in fear that there is a bad energy surrounding you and making you anxious. \n When you do these things , no one knows about it , but in your heart it is inevitable .\n It can torment you for the rest of your life . \n So work in compliance with the law and your conscience so that your soul is comfortable, confident, and fearless."
 },
 {
 "type":"0",
-"name":"KHÔNG THỦ DÂM",
+"name":"NO Masturbation",
 "linkappstore":"https://itunes.apple.com/vn/app/create-album-music-sleep-timer/id1130635299?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icontaoalbum.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/taoalbum4.png?raw=true",
-"linkdes":"TUYỆT ĐỐI KHÔNG THỦ DÂM .\n Khi bạn áp lực stress , bạn nghĩ thủ dâm có lợi , giải tỏa căng thẳng, nhưng không , khi bạn thủ dâm xong , nó như một nỗi ám ảnh với bạn . \n Bạn sẽ cảm thấy tội lỗi , mệt mỏi và đặc biệt là thất vọng về chính mình . \n Khi bạn thủ dâm bạn sẽ tiêu hao 1 nguồn năng lượng rất lớn cả về thể chất lẫn tinh thần . \n Thủ dâm vô độ còn dẫn bạn đến một loạt các bệnh : tâm lý yếu đuối , lo sợ bị bắt gặp , đau đầu , khó ngủ , viêm xoang, dạ dày , trầm cảm , lãnh cảm , tim mạch , suy nhược cơ thể ... \n Vì thế hãy nghe tôi, tuyệt đối không thủ dâm đặc biệt vào buổi sáng nếu bạn muốn đời mình khá lên !"
+"linkdes":"ABSOLUTELY NO Masturbation .\n When you are under stress , you think masturbation is beneficial , relieving stress , but no , when you finish masturbating , it's like an obsession for you . \n You will feel guilty , tired and especially disappointed in yourself . \n When you masturbate you will expend a huge amount of energy both physically and mentally. \n Insatiable masturbation also leads to a variety of diseases: psychological weakness, fear of being caught, headaches, trouble sleeping, sinusitis, stomach, depression, frigidity, cardiovascular disease, muscle weakness can ... \n So listen to me, absolutely don't masturbate especially in the morning if you want to improve your life!"
 },
 {
 "type":"1",
-"name":"CƠ THỂ GỌN GÀNG SẠCH SẼ THƠM THO",
+"name":"NEAT AND CLEAN BODY",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Đầu tóc cơ thể lúc nào cũng phải gọn gàng, sạch sẽ thơm tho , cắt móng tay móng chân , quần áo sạch sẽ . \n Một ngày đánh răng ít nhất 2 lần sau khi ăn . \n Tắm rửa khi bạn đi làm ngoài về . \n Rửa tay khi đi vệ sinh , không vứt rác bừa bãi ... \n Đầu tiên hãy rèn luyện bản thân liên tục như vậy con người bạn sẽ tự tin và tỏa ra một nguồn năng lượng tích cực ."
+"linkdes":"Hair, body must always be neat, clean, fragrant, cut nails, clean clothes. \n Brush your teeth at least twice a day after eating. \n Take a shower when you come home from work. \n Wash your hands when going to the toilet , don't throw garbage indiscriminately ... \n First of all, train yourself continuously so your self will be confident and radiate a positive energy ."
 },
 {
 "type":"1",
-"name":"DẬY SỚM TỪ 5H",
+"name":"WAKE EARLY FROM 5:00 AM",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy dậy sớm lúc 5h sáng .\n Dậy sớm vào khoảng 5h sáng mang đến rất nhiều lợi ích cho sức khỏe.\n Bạn sẽ hạnh phúc hơn, vui vẻ hơn và làm việc hiệu quả hơn. \n Dậy sớm giúp bạn có thêm thời gian trong ngày để làm việc có ích cho cơ thể . \n Giúp bạn có thời gian tập thể dục , vệ sinh cá nhân , ăn sáng ... mà không lo sợ thời gian đi làm . \n Ngoài ra nó còn giúp bạn hít thở không khí trong lành , đắm chìm cơ thể trong ánh bình minh hấp thụ năng lượng mặt trời , giảm stress , cải thiện giấc ngủ buổi tối . \n Tất cả đều là những điều tuyệt vời mà bạn sẽ bỏ lỡ nếu còn ngủ nướng . \n Hãy dậy sớm và cảm nhận nguồn năng lượng tuyệt vời này !"
+"linkdes":"Wake up early at 5:00 AM .\n Waking up early at around 5:00 AM has many health benefits.\n You will be happier, happier and more productive. \n Waking up early gives you more time in the day to do useful work for your body. \n Help you have time for exercise, personal hygiene, breakfast ... without worrying about time to go to work. \n In addition, it also helps you breathe fresh air, immerse your body in the sunrise, absorb solar energy, reduce stress, and improve your night's sleep. \n All of these are great things that you will miss if you sleep in. \n Wake up early and feel this wonderful energy !"
 },
 {
 "type":"1",
-"name":"GẤP GỌN CHĂN MÀN KHI THỨC DẬY",
+"name":"CLEANING THE SLEEPING PLACE",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn đừng bao giờ coi thường việc gấp gọn chăn màn, dọn dẹp chỗ ngủ khi thức dậy . \n Hãy để ý mà xem, những người bê tha, bệ rạc , thiếu sức sống họ đều không làm điều này . \n Bạn không muốn giống họ chứ ? \n Khi bạn để chăn màn chỗ ngủ bừa bộn , theo tâm linh , ma quỷ sẽ nhảy múa trên đó , theo khoa học thì nó phát ra một nguốn năng lượng xấu ảnh hưởng đến bạn . \n Chỉ cần nhìn vào nó thôi bạn cũng sẽ cảm thấy mệt mỏi bức bối . \n Vì thế hãy gấp gọn chăn màn,dọn dẹp chỗ ngủ của bạn khi thức dậy."
+"linkdes":"You should never underestimate the folding of blankets, cleaning the sleeping place when you wake up. \n Pay attention, those who are selfless, sloppy, lifeless they don't do this. \n Don't you want to be like them? \n When you leave the bed blanket messy , according to spirituality , the devil will dance on it , according to science , it emits a bad energy that affects you . \n Just looking at it will make you feel tired and frustrated. \n So fold up the blankets, clean your sleeping place when you wake up ."
 },
 {
 "type":"1",
-"name":"TĨNH TÂM",
+"name":"MEDITATION",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Buổi sáng sớm khi bạn thức dậy , dọn dẹp chỗ ngủ xong , hãy ngồi tĩnh tâm  một lúc . \n Điều này giúp cơ thể bạn bắt đầu chuyển đổi trạng thái từ ngủ sang thức . \n Giúp trí não của bạn sáng suốt và bắt đầu hoạt động tốt . \n Hãy ngồi tĩnh tâm thư giãn thoải mái cảm nhận cuộc sống và mỉm cười. \n Hãy nghĩ rằng hôm nay là một ngày tuyệt vời. \n Thật hạnh phúc khi bạn còn sống !"
+"linkdes":"When you wake up early in the morning, clean up the place to sleep, sit still for a while. \n This helps your body begin the transition from sleep to wakefulness. \n Help your brain clear and start working well. \n Sit back, relax, feel life and smile. \n Think today is a great day. \n So happy you're alive !"
 },
 {
 "type":"1",
-"name":"TẬP THỂ DỤC NHẸ NHÀNG",
+"name":"SMALL EXERCISE",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Sau khoảng thời gian tĩnh tâm , cơ thể bạn đã bắt đầu tỉnh thức . \n Bạn sẽ cảm thấy mình bắt đầu đứng dậy và bắt đầu tập nhẹ nhàng . \n Để cơ thể hoạt động tốt trong một ngày dài , bạn phải khởi động bôi trơn nó như một cỗ máy vậy . \n Hãy đứng thả lỏng , từ từ cúi đầu cằm chạm ngực giữ nguyên một lúc, từ từ ngẩng đầu lên cằm hướng lên trời giữ nguyên một lúc , rồi từ từ quay đầu sang bên phải, trái  giữ nguyên một lúc, từ từ quay cổ 1 vòng từ trái qua khải rồi ngược lại . \n Lặp lại các động tác đó để máu lưu thông lên não bạn . \n Giơ hai tay lên trời hướng mặt phía đông ( hướng mặt trời mọc ) từ từ cúi gập người xuống tay chạm đất giữ nguyên một lúc, từ từ đứng lên ngửa người ra sau giữ nguyên một lúc, tiếp theo hai tay thẳng trước mặt từ từ xoay về bên trái , rồi lại xoay bên phải giữ nguyên một lúc . \n Lặp lại các động tác trên để  máu huyết lưu thông thân thể của bạn . \n Tiếp theo từ từ ngồi xổm xuống giữ một lúc rồi từ từ đứng lên . \n Lặp lại để máu huyết lưu thông đôi chân, gân cốt của bạn . \n Xoay cổ chân , cổ tay , khuỷu tay , cánh tay , đầu gối , eo của bạn một lúc cho năng lượng lan tỏa toàn thân . \n Chùng gối , nhảy lên vài cái kết thúc bài thể dục .\n Có thể tập bài này khi bạn giải lao giữa lúc làm việc, ngồi máy tính lâu căng thẳng .\n Ngắm ánh bình minh , để ánh mặt trời tràn lên cơ thể của bạn, cảm nhận thiên nhiên và tiếp thu lấy nguồn năng lượng tuyệt vời đó !"
+"linkdes":"After a period of meditation, your body has begun to wake up. \n You will feel yourself starting to stand up and begin to gently exercise. \n In order for your body to function properly all day long, you have to start lubricating it like a machine. \n Stand relaxed, slowly lower your head, chin to chest, hold for a moment, slowly raise your chin to the sky, hold for a moment, then slowly turn your head to the right, left, hold for a while , slowly turn the neck 1 turn from left to right and vice versa. \n Repeat these movements to increase blood flow to your brain. \n Raise your hands to the sky facing east (towards the rising sun) slowly bend your body down to touch the ground, hold for a moment, slowly stand up, lean back, hold for a moment, then your hands straight in front of you, slowly rotate to the left, then to the right again, hold for a while. \n Repeat the above movements to get blood circulating in your body. \n Next, slowly squat down, hold for a while, and then slowly stand up. \n Repeat for blood circulation in your legs and tendons. \n Rotate your ankles, wrists, elbows, arms, knees, and waist all at once for the energy to spread throughout the body. \n Knees down , jumps a few times to end the exercise .\n This exercise can be done when you take a break from work , sit at the computer for a long time .\n Watch the sunrise , let the sun shine up your body, feel nature and absorb that wonderful energy!"
 },
 {
 "type":"1",
-"name":"GIẶT KHĂN MẶT , PHƠI KHĂN MẶT",
+"name":"WASH YOUR FACE TOWEL",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Khi bạn rửa mặt xong , hãy giặt khăn mặt bằng tay , có dùng cả nước xả vải thơm , rồi sau đó đem khăn mặt ra phơi dưới ánh sáng mặt trời . \n Có những điều nhỏ nhặt mà bạn sẽ không ngờ về tác dụng của nó với cơ thể và năng lượng của bạn . \n Khuôn mặt bạn quan trọng thế nào thì một chiếc khăn mặt quan trọng như thế . \n Hãy xem một chiếc khăn mặt sạch sẽ , thơm tho vào buổi sáng úp vào mặt bạn sẽ khác biệt thế nào với một chiếc khăn nhớp nháp hôi hám ? \n Hãy thay khăn mặt định kỳ để giữ da mặt bạn được tốt ."
+"linkdes":"When you're done washing your face, wash your face towel by hand, including fabric softener, and then let it dry in the sunlight. \n There are little things that you wouldn't expect to do with your body and energy. \n As important as your face is, your face towel is just as important. \n See how a clean, fragrant face towel in the morning placed on your face will be different from a greasy, smelly towel? \n Change your face towel periodically to keep your skin in good condition."
 },
 {
 "type":"1",
-"name":"UỐNG NƯỚC KHI THỨC DẬY",
+"name":"DRINK WATER WHEN WAKE UP",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Buổi sáng sớm khi bạn thức dậy , hãy uống một cốc nước . \n Nước chiếm hơn 70% cơ thể con người , sau một đêm dài cơ thể cần nước để làm mát, thanh lọc ở cấp độ tế bào . \n Hãy uống một cốc nước để cho cơ thể hoạt động tốt nhất . \n Uống nước buổi sáng giúp giảm cân , cải thiện tiêu hóa , tăng cường miễn dịch và ngăn ngừa tình trạng đau đầu , thải độc tố , tốt cho da dẻ , tăng năng lượng ... \n Thói quen uống nước ngay sau khi thức dậy vào buổi sáng sẽ tăng mức năng lượng cơ thể ngay lập tức, giúp bạn cảm thấy tràn đầy năng lượng . \n Tất cả lợi ích tuyệt vời đó bạn đừng bỏ qua ! "
+"linkdes":"Early in the morning when you wake up, drink a glass of water. \n Water makes up more than 70% of the human body, after a long night the body needs water to cool and purify at the cellular level. \n Drink a glass of water for the body to function at its best. \n Drinking water in the morning helps to lose weight, improve digestion, boost immunity and prevent headaches, eliminate toxins, good for skin, increase energy... \n Habit of drinking water right after Waking up in the morning boosts your body's energy levels immediately, leaving you feeling energized. \n All these great benefits you should not miss!"
 },
 {
 "type":"1",
