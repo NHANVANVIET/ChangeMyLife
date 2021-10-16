@@ -129,187 +129,187 @@
 },
 {
 "type":"1",
-"name":"ĂN ĐÚNG CÁCH",
+"name":"EAT THE RIGHT WAY",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Khoảng cách giữa các bữa ăn từ 5 đến 6h , bữa tối trước lúc ngủ nên cách lúc ngủ ít nhất 3h . \n Bạn sẽ không muốn gây áp lực lên các cơ quan trong lúc ngủ để tiêu hóa thức ăn đâu . \n Khẩu phần ăn nên có 40% rau xanh và hoa quả .\n Hãy để ý các loại thức ăn mà bạn đưa vào cơ thể , nếu thấy thức ăn có thể tiêu hóa trong 3h , đó là loại thức ăn mà cơ thể của bạn có thể xử lý được . \n Nếu không hãy không ăn các thực phẩm đó hoặc ăn giảm số lượng nó . \n Hãy cảm thấy biết ơn những thực phẩm mà bạn ăn vào !"
+"linkdes":"The interval between meals is from 5 to 6 hours, dinner before bed should be at least 3 hours apart from bedtime. \n You don't want to put pressure on your organs while you sleep to digest food. \n The diet should have 40% green vegetables and fruits.\n Pay attention to the foods you put into your body, if you see food that can be digested in 3 hours, that's the kind of food that the body can handle it . \n If not, do not eat the food or eat less of it. \n Be grateful for the food you eat!"
 },
 {
 "type":"1",
-"name":"UỐNG ĐÚNG CÁCH",
+"name":"DRINK THE RIGHT WAY",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy uống nước trong bình , đã đựng khoảng 7h-8h . \n Uống nước tốt nhất trong khoảng 4 độ chênh lệch với nhiệt độ cơ thể , không nên uống nước đá . \n Nguồn nước là tối quan trọng với cơ thể , đi vào cả cấp độ tế bào . \n Các nhà khoa học còn chứng minh rằng nước có thể lưu trữ thông tin . \n Hãy uống nước khi khát và uống nhiều hơn 1 chút hoảng 10% , cơ thể sẽ tự đào thải lượng nước dư thừa . \n Không nên uống nhấp từng ngụm liên tục trong thời gian dài, nó đánh lừa cơ thể bạn làm bạn uống quá nhiều nước gây mất cân bằng ."
+"linkdes":"Please drink water in the bottle, which has been stored for about 7 to 8 hours. \n Drink water preferably within 4 degrees of body temperature, do not drink ice. \n Water is vital to the body, even at the cellular level. \n Scientists have also proven that water can store information. \n Drink water when thirsty and drink a little more about 10%, the body will eliminate the excess water on its own. \n Do not drink sip by sip continuously for a long time, it trick your body into making you drink too much water causing imbalance."
 },
 {
 "type":"1",
-"name":"TẮM ĐÚNG CÁCH",
+"name":"TAKE A SHOWER THE RIGHT WAY",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Tắm không chỉ là gội sạch bụi bẩn trên cơ thể bạn . \n Mà còn có một sự thanh lọc ở cấp độ tế bào trong cơ thể chiếm hơn 70% là nước của bạn .\n Cách tắm tốt nhất là ngụp lặn trong bể hoặc dưới sông .\n Cơ thể nên được nhúng chìm trong nước . \n Đó là cách giúp cơ thể bạn khỏe mạnh . \n Nếu không có điều kiện, hãy tắm nước mát hơn từ 5-8 độ so với nhiệt độ phòng , để nước chảy từ trên đỉnh đầu xuống .\n Hãy để ý khi bạn có một ngày dài mệt mỏi căng thẳng , bạn tới đứng dưới vòi hoa sen 3 đến 5 phút , khi bước ra , mọi vấn đề biến mất ! \n Bạn như mới vừa được sinh ra vậy ! \n Một khi cấu trúc tế bào của bạn được sạc năng lượng nó sẽ duy trì sự tươi trẻ cho bạn một thời gian dài ."
+"linkdes":"Bathing isn't just about washing away dirt from your body. \n There is also a cellular level purification in your body which is more than 70% water.\n The best way to bathe is by diving in a tank or river .\n The body should be immersed in water . \n That's how to keep your body healthy. \n If you can't, take a shower with water 5-8 degrees cooler than room temperature, letting the water flow down from the top of your head.\n Pay attention when you have a long, stressful day, you come and stand in the shower for 3 to 5 minutes, when you step out, all the problems are gone! \n You feel like you were just born! \n Once your cellular structure is charged, it will keep you fresh for a long time."
 },
 {
 "type":"1",
-"name":"TẬP CHỐNG ĐẨY , TẬP KÉO XÀ",
+"name":"PUSH-UP AND PUll-UP",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy đứng dậy và chống đẩy ngay bây giờ . \n Tôi đã bắt đầu hành trình thay đổi bản thân bằng cách luyện chống đẩy và bây giờ tôi duy trì 30 cái một lần , 5 lần 1 ngày liên tục vào những lúc giải lao bất kỳ . \n Và bạn không biết đâu , nó đã thay đổi bản thân tôi thật sự từ hình dạng bên ngoài lẫn ý chí , năng lượng . \n Từ một kẻ thất bại , gày còm nhỏ yếu tôi đã trở nên cơ bắp và mạnh mẽ cả thể chất và tinh thần . \n Chống đẩy là một cách dễ dàng mà bạn có thể làm mọi lúc . \n Nó mang lại cho bạn rất nhiều lợi ích : khỏe mạnh, tự tin, tay to, ngực nở bụng săn , cơ bắp , khí huyết lưu thông , tiêu hóa tốt ... \n Kéo xà cũng vậy , nó làm dãn gân cốt, tăng dẻo dai cho cơ thể bạn . \n Hãy tập chống đẩy, và kéo xà đúng cách bất cứ khi nào rảnh , khi bạn giải lao giữa lúc làm .\n Nếu thấy khát, hãy uống nước sau mỗi lần tập . \n Chỉ sau một tháng bạn sẽ thấy khác biệt từ bên trong lẫn bên ngoài cơ thể ."
+"linkdes":"Get up and do push-ups now. \n I started my personal transformation by doing push-ups and now I do 30 at a time, 5 times a day continuously at random breaks. \n And you don't know , it changed me really from the outside appearance and the will , energy . \n From a loser , thin and weak I have become muscular and strong both physically and mentally . \n Push-ups are an easy thing you can do all the time. \n It gives you a lot of benefits: healthy, confident, big arms, enlarged chest, firm stomach, muscles, blood circulation, good digestion... \n Pull-ups too, it stretches. tendons, increase flexibility for your body. \n Do push-ups and pull-ups properly whenever you have free time , when you take breaks in between work .\n If you feel thirsty, drink water after each workout . \n After only a month you will see a difference from the inside and the outside of your body."
 },
 {
 "type":"1",
-"name":"TẬP THỂ DỤC TRONG 5 PHÚT GIẢI LAO",
+"name":"EXERCISE IN 5 MINUTES",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn hãy tập bài này ngay bây giờ và bất cứ khi nào giải lao . \n Bạn chỉ cần tập bài này trong nhà 5 phút ,có thể vừa nghe nhạc vừa tập . \n Nó sẽ giúp cơ thể bạn khỏe mạnh dẻo dai tràn đầy sức mạnh như một võ sĩ người hướng dẫn bài tập này .\n Nếu thấy khát, hãy uống nước sau mỗi lần tập . \n Link : https://www.youtube.com/watch?v=q7n1gmPvkUU"
+"linkdes":"Do this exercise now and whenever you take a break. \n You only need to practice this exercise at home for 5 minutes, you can listen to music and practice at the same time. \n It will help your body stay strong, supple, and full of strength like a martial artist who teaches this exercise.\n If you feel thirsty, drink water after each workout . \n Link : https://www.youtube.com/watch?v=q7n1gmPvkUU&t=40s"
 },
 {
 "type":"1",
-"name":"BÀI TẬP TAY",
+"name":"HAND EXERCISE",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn hãy tập bài này ngay bây giờ và bất cứ khi nào giải lao . \n Nó sẽ giúp đôi tay bạn khỏe mạnh dẻo dai tràn đầy sức mạnh như một võ sĩ .\n Bài tập rất đơn giản nhưng hiệu quả cực cao , bạn có thể cảm nhận ngay sau khi tập lần đầu . \n Bước 1 đưa 2 tay ra trước , lòng bàn tay hướng về phía trước . \n Bước 2 dùng lực nắm bàn tay lại rồi mở lại tay ra . \n Lặp lại ít nhất 100 lần , một ngày 2 lần rồi tăng dần . \n Luyện liên tục hàng ngày như vậy, bạn càng luyện nhiều thì càng có đôi tay mạnh mẽ . \n Rất đơn giản bạn hãy làm ngay và cảm nhận ."
+"linkdes":"Do this exercise now and whenever you take a break. \n It will help your hands be strong, supple and full of strength like a boxer.\n The exercise is very simple but extremely effective, you can feel it right after the first practice. \n Step 1 put your hands in front of you, palms facing forward. \n Step 2 forcefully grasp your hand and then open it again. \n Repeat at least 100 times , twice a day and then increase gradually . \n Daily practice like that, the more you practice, the stronger your hands will be. \n It's very simple, just do it and feel it."
 },
 {
 "type":"1",
-"name":"ĐI BỘ",
+"name":"WALKING",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn hãy dành ít nhất 30 phút đi bộ mỗi ngày . \n Nó sẽ giúp cải thiện cả sức mạnh tinh thần lẫn thể chất của bạn .\n Đi bộ là một điều tuyệt vời nhất bạn làm với cơ thể của mình . \n Giúp cơ thể bạn hoạt động trơn tru , mọi tế bào được khởi động , nếu bạn đang stress hãy đi bộ , nếu bạn đang bế tắc , hãy đi bộ , nếu bạn đang nằm nhà mệt mỏi , hãy đi bộ và nó sẽ giải quyết tất cả mọi vấn đề của bạn . \n Hãy thử mà xem , đi bộ sẽ khiến đầu óc bạn minh mẫn và sáng suốt giải quyết những bế tắc cả về thể chất lẫn tinh thần ."
+"linkdes":"Take at least 30 minutes of walking every day. \n It will help improve both your mental and physical strength.\n Walking is one of the greatest things you can do with your body. \n Help your body work smoothly , every cell is activated , if you are stressed walk , if you are stuck , walk , if you are lying at home tired , walk and it will solve all your problems. \n Try and see, walking will make your mind clear and clear to solve both physical and mental obstacles."
 },
 {
 "type":"1",
-"name":"HỌC MỘT NGÔN NGỮ MỚI - TIẾNG ANH",
+"name":"LEARN A NEW LANGUAGE - ENGLISH",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Một ngày hãy bỏ ra 30p để học một ngôn ngữ mới . \n Đặc biệt là tiếng Anh . \n Nó sẽ là một công cụ giao tiếp tuyệt vời , giúp khai sáng cuộc đời của bạn . \n Nó sẽ giúp bạn nổi bật hơn tất cả trong đám đông , giúp bạn thành công trong mọi việc . \n Giúp bạn tăng giá trị của bản thân lên một tầm cao mới . \n Hãy nghe tôi, bỏ ra 30p một ngày để học nó và cuộc đời bạn sẽ thay đổi ."
+"linkdes":"Spend 30 minutes a day learning a new language. \n Especially English . \n It will be a great communication tool, helping to enlighten your life. \n It will help you stand out from the crowd , help you succeed in everything . \n Helps you increase your self-worth to a new level. \n Listen to me, spend 30 minutes a day learning it and your life will change."
 },
 {
 "type":"1",
-"name":"THỬ LÀM MỘT VIỆC MỚI MẺ",
+"name":"TRY DOING SOMETHING NEW",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy thử làm một điều mới mẻ như vẽ tranh , thiền , nấu ăn , trồng cây , trang trí phòng , thả diều , đá bóng , bắt chuyện với một người lạ ... \n Điều này sẽ giúp bạn khám phá thêm về mình, về mọi thứ xung quanh , những thứ mà khi thường bạn không hề nghĩ đến . \n Nó mang đến một luồng gió mới , đôi khi là một cơ hội mới cho cuộc đời buồn tẻ của bạn . \n Đừng kìm hãm bản thân bạn với tri thức, với ước mơ, với những điều thú vị trong cuộc sống ."
+"linkdes":"Try doing something new like painting , meditating , cooking , planting a tree , decorating your room , flying a kite , kicking a soccer ball , talking to a stranger ... \n This will help you discover more about yourself . , about everything around , things that you usually don't think about . \n It brings a breath of fresh air , sometimes a new chance to your dull life . \n Don't hold yourself back with knowledge, with dreams, with interesting things in life."
 },
 {
 "type":"1",
-"name":"LÊN KẾ HOẠCH VIỆC CẦN LÀM",
+"name":"PLAN FOR WORK",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy lên kế hoạch công việc cần làm của bạn ngày hôm sau vào buổi tối hôm trước . \n Để khi bạn ngồi vào bàn làm việc , bạn chỉ có duy nhất một điều đó là hoàn thành nó . \n Không phải lan man suy nghĩ mất thời gian, không phải chịu những tác động khác , chỉ đơn giản là làm việc . \n Bạn sẽ dành toàn bộ năng lượng của mình để làm việc mà không phải tiêu hao nó cho việc không đáng ."
+"linkdes":"Plan your to-dos for the next day the night before. \n So that when you sit at your desk , you have only one thing to do is to complete it . \n Don't waste time thinking, don't suffer other influences, just work. \n You will spend all your energy working without having to spend it on something that is not worth it ."
 },
 {
 "type":"1",
-"name":"ĐẶT RA MỤC TIÊU ĐỂ HƯỚNG TỚI",
+"name":"SET A GOAL TO DO",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Khi bạn có một mục tiêu để hoàn thành , nó sẽ khiến bạn có động lực làm việc . \n Nó sẽ khiến bạn làm việc đúng khi bạn mất phương hướng , thậm chí không biết làm gì . \n Hãy đặt ra cho mình một mục tiêu để làm , thay vì phí phạm thời gian vào những việc vô bổ , hãy làm việc để đạt được mục tiêu . \n Hãy đặt mục tiêu trong giờ, mục tiêu trong ngày , mục tiêu trong tuần , mục tiêu trong tháng ... và hành động . \n Bạn sẽ tập trung năng lượng của mình vào đó và không lãng phí vào việc vô bổ ."
+"linkdes":"When you have a goal to accomplish, it keeps you motivated. \n It will make you do the right thing when you lose your way , don't even know what to do . \n Set yourself a goal to do , instead of wasting time on useless things , work to achieve the goal . \n Set hourly goals, daily goals, weekly goals, monthly goals ... and take action. \n You will focus your energy on it and not waste it on useless things."
 },
 {
 "type":"1",
-"name":"LÀM VIỆC HẾT MÌNH",
+"name":"WORK HARD",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy làm việc bằng tình yêu , không phải trách nhiệm . \n Khi bạn đang có một công việc để làm hãy trân trọng công việc đó , nó đang nuôi sống bạn hoặc đã từng nuôi sống bạn . \n Hãy nhớ những ngày bạn thất nghiệp , công việc quan trọng với bạn thế nào ? \n Nếu bạn không được làm việc mình thích thì bạn phải thích việc mình làm . \n Để có được thành công bạn hãy làm việc hết mình , tập trung năng lượng vào công việc . \n Hãy tìm mọi cách để hoàn thành nó không ngại khó ngại khổ , hãy quý trọng công việc mình đang làm ."
+"linkdes":"Work with love, not responsibility. \n When you have a job to do, cherish that job, it is either feeding you or used to feed you. \n Remember the days when you were unemployed, how important was your job to you? \n If you can't do what you love, you must love what you do. \n To be successful, work hard, focus your energy on work. \n Find a way to complete it without fear of hardship , appreciate the work you are doing ."
 },
 {
 "type":"1",
-"name":"ĐỌC SÁCH CÓ ÍCH",
+"name":"READING BOOKS",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy dành 30 phút mỗi ngày để đọc những cuốn sách bổ ích . \n Nó sẽ giúp bạn có kiến thức , sự tự tin và cảm hứng trong các lĩnh vực cuộc sống . \n Hãy chọn những chủ đề phù hợp và có ích cho bạn . \n Có thể đọc sách về giáo dục , kinh doanh , phát triển bản thân , tĩnh tâm , tỉnh thức , điều khiển cảm xúc ... \n Hãy nhìn xem, những người thành công thì họ hay đọc sách , còn lại thì không . \n Hãy cầm cuốn sách và đọc như đọc một niềm vui giải trí nhé bạn . \n Đến một lúc bạn sẽ cảm thấy niềm đam mê , yêu thích khi đọc được một cuốn sách hay , tiếp thu được một kiến thức mà mình chưa biết đến ."
+"linkdes":"Spend 30 minutes a day reading useful books. \n It will help you with knowledge , confidence and inspiration in all areas of life . \n Choose topics that are relevant and useful to you . \n You can read books about education, business, self-development, meditation, mindfulness, emotional control... \n Look, successful people often read books, others don't . \n Please hold the book and read it as if it were a pleasure to read. \n At some point you will feel the passion , love when you read a good book , acquire a knowledge that you do not know ."
 },
 {
 "type":"1",
-"name":"NGHE NHẠC",
+"name":"LISTENING TO MUSIC",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Khi bạn thiếu năng lượng , ủ rũ , mệt mỏi , âm nhạc sẽ vực dậy con người bạn . \n Có những bài hát có ý nghĩa và giai điệu tuyệt vời nó như một nguồn năng lượng tiếp sức cho bạn vậy . \n Một số bài hát tôi thường nghe : Hello VietNam , I have a dream , Trouble is a Friend , Reality , In The End , Congratulations , That's life ... \n Hãy nghe và cảm nhận những bài hát tuyệt vời để có động lực chiến đấu khi mỏi mệt bạn nhé ."
+"linkdes":"When you lack energy , moody , tired , music will revive you . \n There are meaningful songs and wonderful melodies that are like a source of energy for you. \n Some songs I often listen to : Hello VietNam , I have a dream , Trouble is a Friend , Reality , In The End , Congratulations , That's life ... \n Listen and feel great songs to have Motivation to fight when you are tired."
 },
 {
 "type":"1",
-"name":"LIỆT KÊ THÓI XẤU ĐỂ TỪ BỎ",
+"name":"LIST THE BAD HABITS TO GIVE UP",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy liệt kê thói hư tật xấu của bản thân mà bạn phải từ bỏ nếu muốn cuộc đời tốt lên . \n Nó sẽ khiến bạn rõ ràng trong tâm trí phải từ bỏ nó . \n Hãy cố gắng hết sức , không được ngay thì từ từ phải làm để thay đồi cuộc đời bạn . \n Bạn không muốn mình là kẻ thất bại trong cuộc đời này đâu . \n Hãy cố gắng , thành quả sẽ đến với bạn sớm thôi ."
+"linkdes":"Make a list of your bad habits that you must give up if you want to have a better life. \n It will make you clear in your mind to give it up . \n Try your best, if you can't do it right away, you have to do it slowly to change your life. \n You don't want to be a failure in this life. \n Try hard, the results will come to you soon."
 },
 {
 "type":"1",
-"name":"HẠN CHẾ DÙNG ĐIỆN THOẠI , MÁY TÍNH",
+"name":"LIMITED USE PHONES, COMPUTER",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Nếu bạn thống kê thời gian bạn cầm chiếc điện thoại trên tay , nó sẽ khiến bạn sốc . \n Vì bạn cầm nó quá nhiều , mà toàn sử dụng nó vào những vệc vô ích, rút cạn năng lượng của cơ thể . \n Hãy dùng chiếc điện thoại một cách có ích nhất . \n Giám sát thời gian bạn sử dụng nó , chỉ dùng cho những việc có ích , đừng cắm đầu vào game , mạng xã hội , tin hot, giật gân ... \n Dùng máy tính cũng vậy , nếu bạn là dân văn phòng , phải làm việc với máy tính cả ngày , cứ 30 phút hãy nhắm mắt lại để thư dãn , ngồi thẳng lưng , hít thở sâu , tĩnh tâm , tập bài tập xoay cổ , 1 tiếng hãy đứng dậy kéo dãn gân cốt , tập bài tập gập người ,vặn người hoặc chống đẩy , hoặc tập bài tập 5 phút . \n Không ngồi lỳ hàng giờ mà không vận động , sẽ khiến cơ thể bạn mệt mỏi , stress , không có sức sống ."
+"linkdes":"If you count the time you hold the phone in your hand, it will shock you. \n Because you hold it too much, you always use it for useless purposes, draining the body's energy. \n Make the most of your phone. \n Monitor the time you use it , only use it for useful things , do not plug your head into games , social networks , hot news , sensationalism ... \n Use a computer too , if you are a civilized person room , you have to work at the computer all day , close your eyes every 30 minutes to relax , sit up straight , take a deep breath , meditate , do neck rotation exercises , get up and stretch your muscles every hour curls , twists or pushups , or do the 5 minute exercise . \n Do not sit for hours without exercise, it will make your body tired, stressed, and lifeless."
 },
 {
 "type":"1",
-"name":"ĐIỀU KHIỂN CẢM XÚC - GIÁC NGỘ",
+"name":"CONTROL YOUR FEELING",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn có cảm thấy rằng khi vui vẻ , mình có một nguồn năng lượng tràn đầy , còn khi buồn thì ngược lại ? \n Nguồn năng lượng đến từ cảm xúc là một trong những nguồn năng lượng mạnh mẽ nhất có thể cứu cả cuộc đời bạn . \n Vậy làm sao để bạn luôn cảm thấy yêu đời , hạnh phúc ? \n Ngay lúc này hãy nhớ rằng : Ô, mình vẫn đang sống , thật tuyệt vời vì điều đó ! \n Nghĩ và mỉm cười , cảm nhận một nguồn năng lượng mới trong con người mình . \n Cuộc sống có vô vàn tác nhân gây tác động đến chúng ta , nhưng hãy để ý mà xem , bạn có thể điều khiển cảm xúc của mình nếu có thể giác ngộ . \n Tại sao lại không chứ ? \n Bạn có thể vui dù có mọi khó khăn, áp lực, dù gặp mọi chuyện buồn . \n Bạn có thể điều khiển nó giống như điều khiển cơ thể mình vậy . \n Điều này rất khó nhưng nếu bạn giác ngộ bạn sẽ làm được , hãy nghĩ mà xem , rốt cuộc cảm xúc là do mình mà ra , mình muốn vui thì vui, muốn buồn thì buồn mà !\n Bạn không thể kiểm soát được những gì sẽ xảy ra trong cuộc sống, nhưng bạn luôn lựa chọn được cách phản ứng của mình.\n Đây không phải kỹ năng bẩm sinh, mọi người đều có thể học kiềm chế cảm xúc của mình một cách hiệu quả . \n Đa số mọi người mắc kẹt trong tâm lý của chính mình mà không giác ngộ được điều này, con người sống trong thế giới ảo do chính mình tạo ra mà quên đi thế giới thật xung quanh .\n Hãy nhìn ra thế giới thật, nhìn ra thiên nhiên , nhìn cây cối , hoa lá , trời đất , mây , mưa , nắng , chim chóc , thú vật ... bạn sẽ thấy đó mới là thế giới thật . \n Một thế giới thật hạnh phúc vui vẻ tuyệt diệu mà mình cả cuộc đời trước đây không để ý ! \n Hãy cảm nhận và giác ngộ !"
+"linkdes":"Do you feel that when you are happy, you have full energy, and when you are sad, the opposite is true? \n Emotional energy is one of the most powerful energies that can save your life. \n So how do you always feel loved and happy? \n Right now remember: Oh, I'm still alive, it's great for that! \n Think and smile, feel a new source of energy in your being. \n Life has many factors that affect us, but pay attention, you can control your emotions if you can be enlightened. \n Why not? \n You can be happy despite all the difficulties and pressures, despite all the sad things. \n You can control it like you control your body. \n This is very difficult, but if you are enlightened you can do it, think about it, in the end emotions are your own, if you want to be happy, then you will be happy, if you want to be sad , then you will be sad ! \n You can't control what will happen in life, but you can always choose how you react.\n This is not an innate skill, everyone can learn to control their emotions effectively. \n Most people are stuck in their own psyche without realizing this, people live in the virtual world created by themselves but forget the real world around.\n Look at the world look at nature , look at trees , flowers , heaven and earth , clouds , rain , sunshine , birds , animals ... you will see that this is the real world . \n Such a wonderful happy happy world that I didn't notice all my life before! \n Feel and be enlightened!"
 },
 {
 "type":"1",
-"name":"TIẾP XÚC VỚI TRÁI ĐẤT",
+"name":"CONTACT WITH EARTH",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy tiếp xúc trực tiếp với trái đất để tiếp nhận nguồn năng lượng từ đất mẹ . \n Ngày nay chúng ta sống trong môi trường bê tông hóa , rồi đi giày dép cả ngày , đã lâu lắm rồi chúng ta không tiếp nhận nguồn năng lượng từ đất mẹ . \n Hãy để ý những người nông dân làm việc trên đồng ruộng, tiếp xúc với đất , họ có sức khỏe và năng lượng yêu đời chứ không uể oải cả ngày như chúng ta . \n Hãy dành một chút thời gian đi chân trần , nằm trên bãi cỏ , cảm nhận năng lượng từ đất mẹ .\n Khi chân bạn tiếp xúc với đất bạn sẽ thấy cơ thể mình thoải mái dễ chịu điều hòa và tràn đầy năng lượng !"
+"linkdes":"Make direct contact with the earth to receive energy from the mother earth. \n Today we live in a concrete environment, then wear shoes all day, it's been a long time since we have received energy from the mother earth. \n Pay attention to the farmers working in the fields, in contact with the soil, they have health and energy to love life, not languidly all day like us. \n Take a moment to walk barefoot , lie on the grass , feel the energy of mother earth .\n When your feet touch the ground you will find your body comfortable , conditioned and full of energy !"
 },
 {
 "type":"1",
-"name":"LÀM VIỆC TỐT - GIÚP ĐỠ MỌI NGƯỜI",
+"name":"WORKING GOOD - HELP EVERYONE",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Đôi khi việc mang lại hạnh phúc cho người khác sẽ khiến bạn hạnh phúc gấp ngàn lần và cảm thấy bản thân mình là một sự tồn tại có ý nghĩa. \n Hãy giúp đỡ mọi người mà không cần thậm chí một lời cảm ơn . \n Khi bạn làm được việc tốt giúp người khác , tự nhiên trong bạn sản sinh ra một năng lượng tích cực . \n Bạn phải giúp với 1 tâm thế không cần người ta cảm ơn, không cần gì cả, chỉ đơn giản là giúp người mà thôi ! \n Bạn càng làm nhiều việc có ích giúp mọi người thì càng có nhiều năng lượng, càng cảm thấy yêu đời và mạnh mẽ ."
+"linkdes":"Sometimes bringing happiness to others will make you a thousand times happier and feel yourself a meaningful existence. \n Please help people without even a thank you . \n When you do a good deed to help others , you naturally produce a positive energy . \n You have to help with a mindset that doesn't need anyone's thanks, doesn't need anything, simply helps people! \n The more you do useful things to help people, the more energy you will have, the more you will feel loved and strong."
 },
 {
 "type":"1",
-"name":"BÌNH TĨNH , CHẮC CHẮN , ĐIỀM TĨNH",
+"name":"PEACE - SURE",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Khi mọi việc xảy đến với bạn, hãy bình tĩnh , sáng suốt không nhanh ẩu . \n Khi tiếp nhận một thông tin , hãy có thói quen nhẩm lại trong đầu rồi xem xét thông tin .\n Hãy trở thành một con người điềm tĩnh , không vội vàng tiếp nhận mọi thứ .\n Hãy xem xét và tìm hiểu bản chất sự việc , nếu bạn luyện được thói quen này , nó sẽ giúp bạn tránh được đa số sai lầm . \n Bạn sẽ trở thành một con người khác , điềm đạm, bản lĩnh , không dễ bị dắt mũi , bị lừa hay lợi dụng ."
+"linkdes":"When things happen to you, be calm, wise, not hasty. \n When you receive information , get in the habit of repeating it in your head and then considering it .\n Be a calm person , don't rush to accept everything .\n Consider and find out the essence of the matter, if you practice this habit, it will help you avoid most mistakes. \n You will become a different person , calm , brave , not easily led , tricked or taken advantage of ."
 },
 {
 "type":"1",
-"name":"NHÌN NHẬN - HỌC HỎI - BIẾT ƠN",
+"name":"LOOK - LEARN - GRATEFUL",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Hãy nhìn nhận và học hỏi mọi người xung quanh , đồng nghiệp , sếp ... \n Mỗi người quanh bạn , hãy nhìn ra điểm tốt của họ và học hỏi . \n Hãy chọn những người thầy giỏi và học hỏi họ để hoàn thiện bản thân . \n Hãy biết ơn những gì mình đang có . \n Chúng ta luôn không ngừng khao khát về những thứ chúng ta không có trong cuộc sống và lãng quên các giá trị về những thứ mình đang có. \n Lòng tham, lòng chiếm hữu của con người là vô đáy, khi bạn có được thứ này thì bạn sẽ mau chóng chạy theo thứ khác.\n Cứ như vậy bạn luôn chạy theo để với lấy hạnh phúc mà đâu biết rằng hạnh phúc ở ngay bên cạnh bạn .\n Đó là người thân, là bè bạn, là công việc hay chỉ đơn giản là mỗi sớm mai còn thức dậy thì đã là điều mà hàng vạn người ao ước."
+"linkdes":"Look at and learn from the people around you , your colleagues , your boss ... \n Everyone around you , see their good points and learn . \n Choose good teachers and learn from them to improve yourself. \n Be grateful for what you have. \n We are constantly yearning for what we don't have in life and forgetting the value of what we have. \n Human greed and possessiveness are bottomless, when you get one thing, you will quickly run after something else.\n Just like that, you always run after to reach for happiness without knowing that happiness Happiness is right next to you.\n Whether it's a relative, a friend, a job or simply waking up every morning is something that thousands of people wish for."
 },
 {
 "type":"1",
-"name":"XIN LỖI - THA THỨ - BAO DUNG",
+"name":"SORRY - FORGIVE - GENEROUS",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Mỗi khi gặp điều gì khiến bạn tức giận , hãy nhắm mắt lại, hít thở và nhẩm trong đầu xin lỗi , tha thứ , bao dung . \n Hãy học cách nói tôi xin lỗi , tôi sai rồi một cách thật lòng không lý do bao biện . \n Hãy học cách tha thứ cho lỗi lầm của người khác , không thù hận . \n Tha thứ cho người khác cũng chính là tha thứ cho bản thân . \n Hãy bao dung với mọi người , đó cũng chính là bao dung với bản thân  . \n Bạn sẽ có một tâm hồn nhẹ nhàng thanh thản không tức giận nặng nề , luôn mỉm cười . \n Điều này tăng tối đa năng lượng tốt của bạn và tiêu hao hết năng lượng xấu bám vào bạn , hãy cố gắng thực hiện trong tâm trí ."
+"linkdes":"Whenever you encounter something that makes you angry, close your eyes, breathe and mentally say sorry, forgive, be generous. \n Learn to say I'm sorry , I was wrong honestly with no excuses . \n Learn to forgive others' mistakes, not to hold grudges. \n Forgiving others is also forgiving yourself. \n Be tolerant to everyone , that is also tolerating yourself . \n You will have a light and peaceful soul without heavy anger, always smiling. \n This maximizes your good energy and drains away all the bad energy that clings to you, try to do it in your mind."
 },
 {
 "type":"1",
-"name":"LIỆT KÊ RỦI RO",
+"name":"LIST OF RISKS",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Trước khi bạn quyết định một vấn đề , hãy liệt kê ít nhất 3 rủi ro gặp phải khi bắt tay làm . \n Có thể lên google tìm kiếm những rủi ro của vấn đề và xem xét các khía cạnh để giải quyết rủi ro đó .\n Nếu rủi ro quá lớn và bạn không có cách giải quyết thì hãy quyết định dừng . \n Hãy xem xét mọi góc độ , chọn con đường đúng đắn , rút kinh nghiệm bài học từ những người đi trước ."
+"linkdes":"Before you decide on a problem , list at least 3 risks encountered when starting to do . \n You can google the risks of the problem and look at the aspects to solve that risk.\n If the risk is too great and you don't have a solution, then decide to stop. \n Consider all angles , choose the right path , learn lessons from those who have gone before ."
 },
 {
 "type":"1",
