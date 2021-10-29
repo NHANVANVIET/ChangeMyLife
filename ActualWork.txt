@@ -1,6 +1,13 @@
 {"ListNewApp":[
 {
 "type":"0",
+"name":"DO NOT STAY UP LATE",
+"linkappstore":"https://itunes.apple.com/vn/app/day-nau-lam-banh-cac-mon-ngon/id908613594?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondaynauan.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan5.png?raw=true",
+"linkdes":"Absolutely do not stay up late if you want to protect your health. \n Staying up late is very harmful to your health. \n Night is the time when your body is tired after a long day and needs rest to recharge its energy. \n If you don't rest and go to sleep, your body will gradually deplete. \n If you stay up late at night, the next morning you will be very tired and have no energy to start a new day. \n All day your mind will be drowsy, flying, unable to concentrate on doing anything. \n So be careful not to stay up late if you want your body to be healthy !"
+},{
+"type":"0",
 "name":"DO NOT PLAY GAMES",
 "linkappstore":"https://itunes.apple.com/vn/app/day-nau-lam-banh-cac-mon-ngon/id908613594?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondaynauan.png?raw=true",
@@ -133,7 +140,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"The interval between meals is from 5 to 6 hours, dinner before bed should be at least 3 hours apart from bedtime. \n You don't want to put pressure on your organs while you sleep to digest food. \n The diet should have 40% green vegetables and fruits.\n Pay attention to the foods you put into your body, if you see food that can be digested in 3 hours, that's the kind of food that the body can handle it . \n If not, do not eat the food or eat less of it. \n Be grateful for the food you eat!"
+"linkdes":"You must have breakfast. \n This is a very important meal, you should not eat greasy, high sugar foods that will make your body sluggish and tired. \n The interval between meals is from 5 to 6 hours, dinner before bed should be at least 3 hours apart from bedtime. \n You don't want to put pressure on your organs while you sleep to digest food. \n The diet should have 40% green vegetables and fruits.\n Pay attention to the foods you put into your body, if you see food that can be digested in 3 hours, that's the kind of food that the body can handle it . \n If not, do not eat the food or eat less of it. \n Be grateful for the food you eat!"
 },
 {
 "type":"1",
@@ -185,11 +192,11 @@
 },
 {
 "type":"1",
-"name":"WALKING",
+"name":"WALKING - JOGGING",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Take at least 30 minutes of walking every day. \n It will help improve both your mental and physical strength.\n Walking is one of the greatest things you can do with your body. \n Help your body work smoothly , every cell is activated , if you are stressed walk , if you are stuck , walk , if you are lying at home tired , walk and it will solve all your problems. \n Try and see, walking will make your mind clear and clear to solve both physical and mental obstacles."
+"linkdes":"Take at least 30 minutes of walking and jogging every day. \n It will help improve both your mental and physical strength.\n Walking is one of the greatest things you can do with your body. \n Help your body work smoothly , every cell is activated , if you are stressed walk , if you are stuck , walk , if you are lying at home tired , walk and it will solve all your problems. \n Try and see, walking will make your mind clear and clear to solve both physical and mental obstacles."
 },
 {
 "type":"1",
