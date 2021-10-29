@@ -1,6 +1,13 @@
 {"ListNewApp":[
 {
 "type":"0",
+"name":"KHÔNG THỨC KHUYA",
+"linkappstore":"https://itunes.apple.com/vn/app/day-nau-lam-banh-cac-mon-ngon/id908613594?mt=8",
+"linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondaynauan.png?raw=true",
+"linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/daynauan5.png?raw=true",
+"linkdes":"Tuyệt đối không thức khuya nếu muốn bảo vệ sức khỏe của bạn . \n Thức khuya rất có hại cho sức khỏe của bạn . \n Buổi tối là lúc cơ thể bạn mệt mỏi sau một ngày dài , rất cần nghỉ ngơi để sạc lại năng lượng . \n Nếu bạn không chịu nghỉ ngơi và đi ngủ thì cơ thể sẽ dần dần suy kiệt . Tối bạn thức khuya thì sáng hôm sau bạn sẽ rất mệt mỏi trong ngừơi và không có năng lượng bắt đầu ngày mới . \n Cả ngày đầu óc bạn sẽ mụ mẫm u mê, bay bay , không tập trung làm được gì hết . \n Vì vậy lưu ý không thức khuya nếu bạn muốn cơ thể mình khỏe mạnh nhé !"
+},{
+"type":"0",
 "name":"KHÔNG CHƠI GAME",
 "linkappstore":"https://itunes.apple.com/vn/app/day-nau-lam-banh-cac-mon-ngon/id908613594?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondaynauan.png?raw=true",
@@ -133,7 +140,7 @@
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Khoảng cách giữa các bữa ăn từ 5 đến 6h , bữa tối trước lúc ngủ nên cách lúc ngủ ít nhất 3h . \n Bạn sẽ không muốn gây áp lực lên các cơ quan trong lúc ngủ để tiêu hóa thức ăn đâu . \n Khẩu phần ăn nên có 40% rau xanh và hoa quả .\n Hãy để ý các loại thức ăn mà bạn đưa vào cơ thể , nếu thấy thức ăn có thể tiêu hóa trong 3h , đó là loại thức ăn mà cơ thể của bạn có thể xử lý được . \n Nếu không hãy không ăn các thực phẩm đó hoặc ăn giảm số lượng nó . \n Hãy cảm thấy biết ơn những thực phẩm mà bạn ăn vào !"
+"linkdes":"Buổi sáng phải ăn sáng . \n Đây là bữa ăn hết sức quan trọng , bạn không nên ăn các thực phẩm nhiều dầu mỡ , nhiều đường sẽ làm cơ thể ì và mệt . \n Khoảng cách giữa các bữa ăn từ 5 đến 6h , bữa tối trước lúc ngủ nên cách lúc ngủ ít nhất 3h . \n Không ăn bữa tối quá no , chỉ ăn nhẹ nhàng . \n Bạn sẽ không muốn gây áp lực lên các cơ quan của cơ thể trong lúc ngủ để tiêu hóa thức ăn đâu . \n Khẩu phần ăn nên có 40% rau xanh và hoa quả , ngũ cốc .\n Hãy để ý các loại thức ăn mà bạn đưa vào cơ thể , nếu thấy thức ăn có thể tiêu hóa trong 3h , đó là loại thức ăn mà cơ thể của bạn có thể xử lý được . \n Nếu không hãy không ăn các thực phẩm đó hoặc ăn giảm số lượng nó . \n Hãy cảm thấy biết ơn những thực phẩm mà bạn ăn vào !"
 },
 {
 "type":"1",
@@ -185,11 +192,11 @@
 },
 {
 "type":"1",
-"name":"ĐI BỘ",
+"name":"ĐI BỘ - CHẠY BỘ",
 "linkappstore":"https://itunes.apple.com/vn/app/de-men-phieu-luu-ky/id824004741?mt=8",
 "linkimgicon":"https://github.com/NHANVANVIET/ListNewApp/blob/master/Icondemen.png?raw=true",
 "linkimgdes":"https://github.com/NHANVANVIET/ListNewApp/blob/master/demen1.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen2.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen3.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen4.png?raw=true,https://github.com/NHANVANVIET/ListNewApp/blob/master/demen5.png?raw=true",
-"linkdes":"Bạn hãy dành ít nhất 30 phút đi bộ mỗi ngày . \n Nó sẽ giúp cải thiện cả sức mạnh tinh thần lẫn thể chất của bạn .\n Đi bộ là một điều tuyệt vời nhất bạn làm với cơ thể của mình . \n Giúp cơ thể bạn hoạt động trơn tru , mọi tế bào được khởi động , nếu bạn đang stress hãy đi bộ , nếu bạn đang bế tắc , hãy đi bộ , nếu bạn đang nằm nhà mệt mỏi , hãy đi bộ và nó sẽ giải quyết tất cả mọi vấn đề của bạn . \n Hãy thử mà xem , đi bộ sẽ khiến đầu óc bạn minh mẫn và sáng suốt giải quyết những bế tắc cả về thể chất lẫn tinh thần ."
+"linkdes":"Bạn hãy dành ít nhất 30 phút đi bộ và chạy bộ mỗi ngày . \n Nó sẽ giúp cải thiện cả sức mạnh tinh thần lẫn thể chất của bạn .\n Đi bộ là một điều tuyệt vời nhất bạn làm với cơ thể của mình . \n Giúp cơ thể bạn hoạt động trơn tru , mọi tế bào được khởi động , nếu bạn đang stress hãy đi bộ , nếu bạn đang bế tắc , hãy đi bộ , nếu bạn đang nằm nhà mệt mỏi , hãy đi bộ và nó sẽ giải quyết tất cả mọi vấn đề của bạn . \n Sáng dậy sớm hãy dành thời gian đi bộ và cảm nhận cuộc đời tuyệt vời buổi sáng . \n Hãy thử mà xem , đi bộ sẽ khiến đầu óc bạn minh mẫn và sáng suốt giải quyết những bế tắc cả về thể chất lẫn tinh thần ."
 },
 {
 "type":"1",
